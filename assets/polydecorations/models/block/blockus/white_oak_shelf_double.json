@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_shelf_double",
+  "textures": {
+    "planks": "blockus:block/white_oak_planks",
+    "logs": "blockus:block/white_oak_log"
+  }
+}

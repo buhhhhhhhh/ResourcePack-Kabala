@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump_tall",
+  "textures": {
+    "top": "polydecorations:block/terrestria/willow_log_stump_top",
+    "side": "terrestria:block/willow_log"
+  }
+}

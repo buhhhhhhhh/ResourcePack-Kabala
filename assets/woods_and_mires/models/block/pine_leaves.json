@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "woods_and_mires:block/pine_leaves"
+  }
+}

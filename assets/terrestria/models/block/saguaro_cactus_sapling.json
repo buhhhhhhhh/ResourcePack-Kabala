@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "terrestria:block/saguaro_cactus_sapling"
+  }
+}

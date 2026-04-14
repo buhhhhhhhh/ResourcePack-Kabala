@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_sign_post",
+  "textures": {
+    "planks": "polydecorations:block/sign_post_terrestria/rainbow_eucalyptus",
+    "logs": "terrestria:block/rainbow_eucalyptus_log"
+  }
+}

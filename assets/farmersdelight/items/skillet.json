@@ -1,0 +1,1 @@
+{"model":{"property":"minecraft:custom_model_data","on_true":{"model":"farmersdelight:item/skillet_cooking","type":"minecraft:model"},"on_false":{"model":"farmersdelight:item/skillet","type":"minecraft:model"},"type":"minecraft:condition"},"hand_animation_on_swap":false}

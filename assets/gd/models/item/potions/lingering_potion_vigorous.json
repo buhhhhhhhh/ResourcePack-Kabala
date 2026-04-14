@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { 	"layer0": "gd:item/potions/lingering_potion_vigorous_overlay",
+        		"layer1": "gd:item/potions/lingering_potion_vigorous",
+   			"particle": "gd:item/potions/potion_normal" }
+}

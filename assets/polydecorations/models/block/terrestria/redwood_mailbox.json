@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_terrestria/redwood",
+    "stripped_log": "terrestria:block/stripped_redwood_log",
+    "stripped_log_top": "terrestria:block/stripped_redwood_log_top",
+    "log": "terrestria:block/redwood_log",
+    "log_top": "terrestria:block/redwood_log_top"
+  }
+}

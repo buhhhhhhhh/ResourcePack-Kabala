@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { "layer0": "gd:item/books/skill_book_5" }
+}

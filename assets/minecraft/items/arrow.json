@@ -1,0 +1,46 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 0,
+		"model": {
+			"type": "model",
+			"model": "minecraft:item/arrow"
+		}
+	},{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/arrow_amethyst"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/arrow_copper"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/arrow_iron"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/arrow_diamond"
+		}
+	},{
+		"threshold": 5,
+		"model": {
+			"type": "model",
+			"model": "gd:item/arrow_netherite"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/arrow"
+	}
+}}

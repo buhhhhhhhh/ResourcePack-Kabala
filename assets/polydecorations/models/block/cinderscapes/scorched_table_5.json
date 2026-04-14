@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_5",
+  "textures": {
+    "planks": "cinderscapes:block/scorched_planks",
+    "logs": "cinderscapes:block/scorched_stem"
+  }
+}

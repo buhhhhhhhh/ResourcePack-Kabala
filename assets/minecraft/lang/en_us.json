@@ -1,0 +1,800 @@
+{
+
+    "enchantment.minecraft.blackthorn_arrow": "\uEA11 Blackthorn Arrow",
+    "enchantment.minecraft.bleeding": "\uEA06 Bleeding",
+    "enchantment.minecraft.bonecaller": "\uEA06 Bonecaller",
+    "enchantment.minecraft.bounty_claim": "\uEA06 Bounty Claim",
+    "enchantment.minecraft.chorus_void": "\uEA11 Chorus Void",
+    "enchantment.minecraft.projectile_deflection": "\uEA06 Projectile Deflection",
+    "enchantment.minecraft.disarming": "\uEA06 Disarming",
+    "enchantment.minecraft.evoker_fangs": "\uEA06 Evoker Fangs",
+    "enchantment.minecraft.experience_boost": "\uEA07\uEA06 Experience Boost",
+    "enchantment.minecraft.fire_burst": "\uEA13 Fire Burst",
+    "enchantment.minecraft.greatblade_defense": "\uEA06 Greatblade",
+    "enchantment.minecraft.horse_0": "\uEA01 Horse I",
+    "enchantment.minecraft.horse_1": "\uEA01 Horse II",
+    "enchantment.minecraft.horse_2": "\uEA01 Horse III",
+    "enchantment.minecraft.illumination": "\uEA06 Illumination",
+    "enchantment.minecraft.inner_echo": "♍ Caelen Voren",
+    "enchantment.minecraft.knife_pouch": "\uEA06 Knife Pouch",
+    "enchantment.minecraft.light_wave": "\uEA06 Light Wave",
+    "enchantment.minecraft.lightning_strike": "\uEA12 Lightning Strike",
+    "enchantment.minecraft.lightning_rod": "\uEA12\uEA11 Lightning Rod",
+    "enchantment.minecraft.mistbreaker": "\uEA14 Mistbreaker",
+    "enchantment.minecraft.magma_walker": "\uEA02 Magma Walker",
+    "enchantment.minecraft.molten_touch": "\uEA07\uEA08 Molten Touch",
+    "enchantment.minecraft.quiver": "\uEA04 Quiver",
+    "enchantment.minecraft.cultivation": "\uEA09 Cultivation",
+    "enchantment.minecraft.retaliation_pulse": "\uEA13 Retaliation Pulse",
+    "enchantment.minecraft.seppuku": "\uEA06 Seppuku",
+    "enchantment.minecraft.star_shard": "\uEA06 Star Shard",
+    "enchantment.minecraft.skill_book": "\uEA23 Skill Book",
+    "enchantment.minecraft.star_shower": "\uEA06 Star Shower",
+    "enchantment.minecraft.seaborn": "\uEA01 Seaborn",
+    "enchantment.minecraft.telekinesis": "\uEA07 Telekinesis",
+    "enchantment.minecraft.tongue_of_fire": "\uEA11 Tongue of Fire",
+    "enchantment.minecraft.void_sphere": "\uEA12 Void Sphere",
+    "enchantment.minecraft.warpstrike": "\uEA01 Warpstrike",
+    "enchantment.minecraft.web_gun": "\uEA11 Silk Flinger",
+
+    "enchantment.minecraft.poisoning": "☠ Poisoning",
+    "enchantment.minecraft.frostbite": "❄ Frostbite",
+    "enchantment.minecraft.holy": "❇ Sanctification",
+    "enchantment.minecraft.withering": "‡ Withering ",
+    "enchantment.minecraft.levitation": "☁ Levitation",
+    "enchantment.minecraft.shocking": "⚡ Shocking",
+    "enchantment.minecraft.ember": "☼ Ember",
+
+    "enchantment.minecraft.reinforcement_ranged": "🏹 Ranged Weapon Reinforcement",
+    "enchantment.minecraft.reinforcement_tool": "🪓 Working Tool Reinforcement",
+    "enchantment.minecraft.reinforcement_weapon": "🗡 Melee Weapon Reinforcement",
+    "enchantment.minecraft.reinforcement_armor": "🛡 Armor Reinforcement",
+    "enchantment.minecraft.reinforcement_shield": "🛡 Shield Reinforcement",
+
+    "enchantment.minecraft.reinforcement_saddle": "\uEA16 Saddle Reinforcement",
+    "enchantment.minecraft.reinforcement_horse_armor": "\uEA17 Horse Armor Reinforcement",
+
+    "enchantment.minecraft.magicka_regeneration": "\uEA15 Magicka Regeneration",
+    "enchantment.minecraft.invisibility": "\uEA15 Invisibility",
+    "enchantment.minecraft.lifebound": "\uEA15 Lifebound",
+    "enchantment.minecraft.magicka_efficiency": "\uEA15 Magicka Efficiency",
+
+    "enchantment.minecraft.translate_magicka": "Magicka ",
+    "enchantment.minecraft.translate_cost": "Cost: ",
+
+
+    "enchantment.minecraft.translate_cultivation": "Instruction\nCrouching + Right Click: Switch Mode\nRight Click: Harvest or Sowing",
+    "enchantment.minecraft.translate_web_gun": "200\nShooting: Weaving Arrow\nCrouching + Shooting: Summon Spider",
+
+    "enchantment.minecraft.retaliation_pulse_1": " Blocked Attacks",
+
+    "enchantment.minecraft.cultivation_1": "Wheat Seeds",
+    "enchantment.minecraft.cultivation_2": "Carrots",
+    "enchantment.minecraft.cultivation_3": "Potatoes",
+    "enchantment.minecraft.cultivation_4": "Beetroot Seeds",
+    "enchantment.minecraft.cultivation_5": "Nether Warts",
+    "enchantment.minecraft.cultivation_mode1": "Harvest Mode",
+    "enchantment.minecraft.cultivation_mode2": "Harvest + Replant Mode",
+
+    "enchantment.minecraft.ram_1": "Level 3 Jump Boost",
+    "enchantment.minecraft.ram_2": "Level 6 Jump Boost",
+    "enchantment.minecraft.ram_3": "Level 9 Jump Boost",
+    "enchantment.minecraft.ram_4": "Level 11 Jump Boost",
+    "enchantment.minecraft.ram_5": "Level 13 Jump Boost",
+    "enchantment.minecraft.ram_6": "Max Jump Boost",
+
+# Enchantment Books
+    "enchantment_book.re_ranged": "Fletcher's Rasp",
+    "enchantment_book.re_ranged.description": "Note: Used to reinforce bows and crossbows from the Lands Beyond.",
+    "enchantment_book.re_tool": "Smithing Tongs",
+    "enchantment_book.re_tool.description": "Note: Used to reinforce working tools from the Lands Beyond.",
+    "enchantment_book.re_weapon": "Whetstone",
+    "enchantment_book.re_weapon.description": "Note: Used to reinforce reinforce weapons from the Lands Beyond.",
+    "enchantment_book.re_shield": "Smithing Hammer",
+    "enchantment_book.re_shield.description": "Note: Used to reinforce elytra and armor from the Lands Beyond.",
+    "enchantment_book.re_armor": "Smithing Hammer",
+    "enchantment_book.re_armor.description": "Note: Used to reinforce shields from the Lands Beyond.",
+
+    "enchantment_book.re_saddle": "Energetic Heart of a Mystical Steed",
+    "enchantment_book.re_saddle.description": "Note: Used to reinforce saddles from the Lands Beyond.",
+    "enchantment_book.re_horse_armor": "Resilient Heart of a Mystical Steed",
+    "enchantment_book.re_horse_armor.description": "Note: Used to reinforce horse armor from the Lands Beyond.",
+
+    "enchantment_book.1": "Elder Tome",
+    "enchantment_book.2": "Ancient Scriptures",
+    "enchantment_book.3": "Hoary Scrolls",
+    "enchantment_book.4": "Cursed Writings",
+    "enchantment_book.5": "Dusty Notices",
+    "enchantment_book.6": "Dusty Notices",
+    "enchantment_book.7": "Arcane Grimoire",
+    "enchantment_book.8": "Obscure Scrolls",
+    "enchantment_book.9": "Veiled Chronicles",
+    "enchantment_book.10": "Wicked Manuscripts",
+    "enchantment_book.tome.description": "Encrusted with the knowledge of\nancient sorcery, these tomes once\nguided powerful wizards in\nbending magic to their will.\nWithin their worn pages lies the\npower to control the arcane.",
+
+    "enchantment_book.illumination": "Illumination Enchantment",
+    "enchantment_book.illumination.description": "Used on: Weapons\nProvides illumination of entities,\nand blesses undead ones.\nMagicka Cost: 1000/usage",
+    "enchantment_book.quiver": "Quiver Enchantment",
+    "enchantment_book.quiver.description": "Used on: Chest Armor\nMakes various Arrows higher\nstackable, when in the inventory.",
+    "enchantment_book.experience": "Experience Boost Enchantment",
+    "enchantment_book.experience.description": "Used on: Tools/ Weapons\nBoosts experience gain when\nbreaking blocks or killing enemies.",
+    "enchantment_book.telekinesis": "Telekinesis Enchantment",
+    "enchantment_book.telekinesis.description": "Used on: Tools\nProvides an item magnet in a\nsmall radius, when activated.\nMagicka Cost: 200/usage",
+    "enchantment_book.warpstrike": "Warpstrike Enchantment",
+    "enchantment_book.warpstrike.description": "Used on: Tridents\nTeleports the owner to the\nlanding place when thrown.",
+    "enchantment_book.cultivation": "Cultivation Enchantment",
+    "enchantment_book.cultivation.description": "Used on: Hoes\nProvides automatic planting and\nharvesting of various crops.",
+    "enchantment_book.motlen_touch": "Molten Touch Enchantment",
+    "enchantment_book.motlen_touch.description": "Used on: Pickaxes/ Axes\nWhen mined, ores and logs\nare immediately smelted.",
+
+    "enchantment_book.bleeding": "Bleeding Enchantment",
+    "enchantment_book.bleeding.description": "Used on: Sharp Weapons\nBuilds up a bleed gauge, dealing\nheavy damage to all targets.",
+    "enchantment_book.magma_walker": "Magma Walker Enchantment",
+    "enchantment_book.magma_walker.description": "Used on: Foot Armor\nAllows you to walk over lava,\ncausing it to cool into basalt.",
+    "enchantment_book.knife_pouch": "Knife Pouch Enchantment",
+    "enchantment_book.knife_pouch.description": "Used on: Swords\nProvides throwing knives that\nrefill over time, when in hand.",
+    "enchantment_book.fire_burst": "Fire Burst Enchantment",
+    "enchantment_book.fire_burst.description": "Used on: Shields\nCreates a large fire burst, that\ndeals heavy fire damage.\nActivated by crouching.\nMagicka Cost: 800/usage",
+    "enchantment_book.defelct_projectile": "Deflect Projectiles Enchantment",
+    "enchantment_book.defelct_projectile.description": "Used on: Weapons\nDeflects physical and magical\nprojectiles once activated.\nMagicka Cost: 2000/usage",
+    "enchantment_book.chorus_void": "Chorus Void Enchantment",
+    "enchantment_book.chorus_void.description": "Used on: Ranged Weapons\nTeleports you to landing place,\nif shot while crouching.\nMagicka Cost: 200/usage",
+    "enchantment_book.seaborn": "Seaborn Enchantment",
+    "enchantment_book.seaborn.description": "Used on: Tridents\nGrants various effects during rain or\nin water. Negatives effects if not.",
+    "enchantment_book.greatblade_defence": "Greatblade Enchantment",
+    "enchantment_book.greatblade_defence.description": "Used on: Weapons\nSummons 3-7 magical blades used\nas projectiles.\nCrouch to launch all.\nMagicka Cost: 1000/usage",
+    "enchantment_book.bounty_claim": "Bounty Claim Enchantment",
+    "enchantment_book.bounty_claim.description": "Used on: Weapons\nIncreases the drop rate of silver coins\non raid mobs.",
+    "enchantment_book.lightning_rod": "Lightning Rod Enchantment",
+    "enchantment_book.lightning_rod.description": "Used on: Ranged Weapons/ Maces\nCan summon a lightning bolt\non hit enemies, if sky visible.",
+    "enchantment_book.bonecaller": "Bonecaller Enchantment",
+    "enchantment_book.bonecaller.description": "Used on: Sharp Weapons\nConjures a skull around the caster,\nwhich deals heavy wither damage.\nMagicka Cost: 1000/usage",
+    "enchantment_book.evoker_fangs": "Evoker Fangs Enchantment",
+    "enchantment_book.evoker_fangs.description": "Used on: Weapons\nWhen activated, conjures aggressive\nfangs around the caster.\nMagicka Cost: 2000/usage",
+    "enchantment_book.star_shard": "Star Shard Enchantment",
+    "enchantment_book.star_shard.description": "Used on: Sharp Weapons\nWhen activated, conjures a star shard,\nwhich attacks the nearest target.\nMagicka Cost: 400/usage",
+    "enchantment_book.tongue_of_fire": "Tongue of Fire Enchantment",
+    "enchantment_book.tongue_of_fire.description": "Used on: Ranged Weapons\nBuilds up a fire gauge, causing\nthe target to explode in flames.",    
+    "enchantment_book.disarming": "Disarming Enchantment",
+    "enchantment_book.disarming.description": "Used on: Weapons\nWhen activated, a curse forces\nnear enemies to drop their weapon.\nMagicka Cost: 4000/usage",
+    "enchantment_book.retalliation": "Retaliation Pulse Enchantment",
+    "enchantment_book.retalliation.description": "Used on: Shields\nAbsorbs dealt damage until fully charged.\nCreates a save area for a short duration.\nCharged by blocking attacks.",
+    "enchantment_book.blackthorn": "Blackthorn Arrow Enchantment",
+    "enchantment_book.blackthorn.description": "Used on: Ranged Weapons\nTurns every single shot arrow into a\nwithering arrow.",
+    "enchantment_book.seppuku": "Seppuku Enchantment",
+    "enchantment_book.seppuku.description": "Used on: Sharp Weapons\nSacrifices health for damage increase.\nCan be done while crouching.\nMagicka Cost: 2000/usage",
+    "enchantment_book.lightning_strike": "Lightning Strike Enchantment",
+    "enchantment_book.lightning_strike.description": "Used on: Maces\nSummons a circle of lightning bolts.\nMagicka Cost: 2000/usage",
+    "enchantment_book.inner_echo": "Inner Echo Enchantment",
+    "enchantment_book.inner_echo.description": "Used on: Swords\nBrings the weapon to life,\nwhich scares nearby creepers.",
+    "enchantment_book.star_shower": "Star Shower Enchantment",
+    "enchantment_book.star_shower.description": "Used on: Weapons\nWhen activated, conjures a fire sphere,\nwhich burns nearby targets.\nMagicka Cost: 8000/usage",
+    "enchantment_book.void_sphere": "Void Sphere Enchantment",
+    "enchantment_book.void_sphere.description": "Used on: Maces\nWhen activated, conjures a void orb\nthat pulls targets in.\nMagicka Cost: 16000/usage",
+    "enchantment_book.light_wave": "Light Wave Enchantment",
+    "enchantment_book.light_wave.description": "Used on: Swords\nReleases a wave of golden light,\ndealing heavy holy damage.\nMagicka Cost: 2000/usage",
+    "enchantment_book.mistbreaker": "Mistbreaker Enchantment",
+    "enchantment_book.mistbreaker.description": "Used on: Elytras\nTeleports the caster between dimensions.\nMagicka Cost: 16000/usage",
+
+
+
+# Dialog
+    "dialog.mistbreaker_0": "Change Dimension?",
+    "dialog.mistbreaker_1": "Choose a realm to venture unto.",
+    "dialog.mistbreaker_2": "Conjure rift to ",
+    "dialog.mistbreaker_3": "The Lands Beyond",
+    "dialog.mistbreaker_4": "The Molten Abyss",
+    "dialog.mistbreaker_5": "The Shadowlands",
+    "dialog.mistbreaker_6": "Select Realm",
+    "dialog.mistbreaker_7": "Conjure rift to: ",
+
+# Item
+    "item.gold_coin": "Gold Coin",
+    "item.silver_coin": "Silver Coin",
+    "item.bronze_coin": "Bronze Coin",
+
+    "item.lesser_tear": "Lesser Soul Tear",
+    "item.common_tear": "Common Soul Tear",
+    "item.greater_tear": "Greater Soul Tear",
+    "item.elder_tear": "Elder Soul Tear",
+    "item.soul_tear.description": "Contains the soul of a fallen enemy.",
+
+    "item.strong_rocket": "Extremely Strong Firework Rocket",
+    "item.strong_rocket.description": "An elytrarocket with a 3 times longer flighttime.",
+    "item.arena_ticket": "Arena Ticket",
+    "item.arena_ticket.description": "Allows you to fight against\ndifferent challengers.\nHold with offhand while in\nthe arena to start the fight.",
+
+    "item.charcoal_block": "Block of Charcoal",
+    "item.furnace_furnace": "Infinite Furnace",
+    "item.furnace_furnace.description": "An ancient forge, infused with the power of a nether star.\nThis furnace burns with an endless flame that rarely fades.",
+    "item.furnace_blast": "Infinite Blast Furnace",
+    "item.furnace_blast.description": "An ancient forge, infused with the power of a nether star.\nThis blast furnace burns with an endless flame that rarely fades.",
+    "item.furnace_smoker": "Infinite Smoker",
+    "item.furnace_smoker.description": "An ancient forge, infused with the power of a nether star.\nThis smoker burns with an endless flame that rarely fades.",
+
+    "item.arrow_amethyst": "Amethyst Arrow",
+    "item.arrow_amethyst.description": "Causes the victim to bleed",
+    "item.arrow_copper": "Copper Arrow",
+    "item.arrow_copper.description": "+33% Damage",
+    "item.arrow_iron": "Iron Arrow",
+    "item.arrow_iron.description": "+66% Damage",
+    "item.arrow_diamond": "Diamond Arrow",
+    "item.arrow_diamond.description": "+100% Damage",
+    "item.arrow_netherite": "Netherite Arrow",
+    "item.arrow_netherite.description": "+133% Damage",
+
+    "item.arrow_stunning": "Stunning Arrow",
+    "item.arrow_stunning.description": "Effective against strong opponents.",
+    "item.arrow_poisoning": "Poisoning Arrow",
+    "item.arrow_poisoning.description": "Effective against armor, slowly but surely.",
+    "item.arrow_levitating": "Levitating Arrow",
+    "item.arrow_levitating.description": "What goes up, always comes down.",
+    "item.arrow_withering": "Withering Arrow",
+    "item.arrow_withering.description": "Puts the curse of withering on enemies.",
+    "item.arrow_cursed": "Cursed Arrow",
+    "item.arrow_cursed.description": "One can't describe this...",
+    "item.arrow_fire": "Fire Arrow",
+    "item.arrow_fire.description": "With a bag of incendiary gunpowder\nattached to the shaft, it spreads\nfire at landing place.",
+    "item.arrow_ender": "Ender Arrow",
+    "item.arrow_ender.description": "Teleports you to landing place.",
+    "item.arrow_frostbite": "Frostbite Arrow",
+    "item.arrow_frostbite.description": "Traps enemies in an icy jail.",
+    "item.arrow_lightning": "Lightning Arrow",
+    "item.arrow_lightning.description": "Summons lightning upon the enemy.",
+    "item.arrow_transforming": "Transforming Arrow",
+    "item.arrow_transforming.description": "Transforms enemies into plants.",
+    "item.arrow_hypnotizing": "Hypnotizing Arrow",
+    "item.arrow_hypnotizing.description": "Turns lower enemies into companions for 25s.",
+    "item.arrow_weaving": "Weaving Arrow",
+    "item.arrow_weaving.description": "With two bags of silk and gunpowder\nattached to the shaft, it spreads\na cobweb at landing place.",
+    "item.arrow_shockwave": "Shockwave Arrow",
+    "item.arrow_shockwave.description": "Infused with pure magical energy,\nthis arrow will push all foes aside,\nparalyzing them for a brief moment.",
+    "item.arrow_spider": "Spider Arrow",
+    "item.arrow_spider.description": "Summons a cave spider for a short duration on landing spot.",
+
+    "item.pelt_1": "Goat Hide",
+    "item.pelt_2": "Red Mooshroom Leather",
+    "item.pelt_3": "Brown Mooshroom Leather",
+    "item.pelt_4": "Fox Pelt",
+    "item.pelt_5": "White Fox Pelt",
+    "item.pelt_6": "Panda Pelt",
+    "item.pelt_7": "Sniffer Pelt",
+    "item.pelt_8": "Polar Bear Pelt",
+    "item.pelt.description": "Grants higher prices at some traders.",
+
+    "item.animal_rabbit": "Foremother Rabbit",
+    "item.animal_cow": "Foremother Cow",
+    "item.animal_sheep": "Foremother Sheep",
+    "item.animal_goat": "Foremother Goat",
+    "item.animal_chicken": "Foremother Chicken",
+    "item.animal_pig": "Foremother Pig",
+    "item.animal_donkey": "Donkey",
+    "item.animal_mule": "Mule",
+    "item.animal_queenbee": "Queen Bee",
+
+
+    "item.bee_parcel": "Parcel with Bees",
+    "item.bee_parcel.description": "Contains a queen bee.",
+    "item.bee_beenest": "Filled Bee Nest",
+    "item.bee_beenest.description": "Perfect for aggressive pollination in a large area.",
+    "item.bee_beehive": "Filled Bee Hive",
+    "item.bee_beehive.description": "Perfect for every new beekeeper.\nContains a few bees.",
+    "item.bee_honey": "Special Honey",
+    "item.bee_honey.description": "The Beekeeper promises a very positive effect.",
+  
+    "item.food_wolf_meat": "Raw Wolf Meat",
+    "item.food_goat_meat": "Raw Goat Meat",
+    "item.food_howlers": "Howler's Grog",
+    "item.food_howlers.description": "Saturation for men and its best friend.",
+
+    "item.food_ale": "Ale",
+    "item.food_ale.description": "A traditional beer brewed from malted barley, hops, yeast, and water.",
+    "item.food_wine": "Mulled Wine",
+    "item.food_wine.description": "A warm and spiced beverage made\nby simmering red wine with\ncinnamon sticks, cloves, star\nanise, orange peel, and sugar.",
+    "item.food_mead": "Mead",
+    "item.food_mead.description": "An ancient fermented honey\ndrink, varies in sweetness and\ndryness. Often featuring herbs or\nspices for added flavor.",
+    "item.food_beef": "Beef Stew",
+    "item.food_beef.description": "Haste I\nStrength I\nA hearty dish made with chunks of\nbeef, root vegetables like carrots,\nonions, and potatoes, simmered in a\nsavory broth seasoned with herbs\nand spices.",
+    "item.food_chicken": "Chicken and Vegetable Stew",
+    "item.food_chicken.description": "Regeneration I\nSpeed I\nA comforting stew made with tender\nchicken pieces, assorted vegetables\nsuch as celery, peas, and turnips,\ncooked together in a flavorful\nchicken broth.",
+    "item.food_fisherman": "Fisherman's Stew",
+    "item.food_fisherman.description": "Dolphin's Grace I\nA rustic seafood stew made with a\nvariety of fish and shellfish such\nas cod, shrimp, mussels, and clams,\nsimmered in a tomato-based broth\nwith aromatic herbs and garlic.",
+    "item.food_lamb": "Lamb and Barley Stew",
+    "item.food_lamb.description": "Healthboost I\nResistance I\nA rich and satisfying stew\nfeaturing tender pieces of lamb,\nbarley grains, and vegetables like\ncarrots, onions, and leeks, cooked\nslowly until the flavors meld together.",
+    "item.food_sausage": "Bean and Sausage Stew",
+    "item.food_sausage.description": "Speed I\nJump Boost I\nA hearty stew made with white beans,\nsmoked sausage or bacon and\nseasonal vegetables, simmered\ntogether until the beans are tender\nand the flavors are well blended.",
+    "item.food_venison": "Venison Stew",
+    "item.food_venison.description": "Strength I\nResistance I\nA robust stew made with lean\nvenison meat, root vegetables, and\nmushrooms, simmered in a rich red\nwine broth flavored with juniper\nberries, thyme, and bay leaves.",
+
+# Weapons
+    "weapon.wooden_club": "Wooden Club",
+    "weapon.wooden_shield": "Wooden Shield",
+    "weapon.wooden_fork": "Wooden Fork",
+
+    "weapon.lsword_stone": "Stone Longsword",
+    "weapon.dagger_stone": "Stone Dagger",
+    "weapon.lsword_copper": "Copper Longsword",
+    "weapon.dagger_copper": "Copper Dagger",
+    "weapon.lsword_iron": "Iron Longsword",
+    "weapon.dagger_iron": "Iron Dagger",
+    "weapon.lsword_golden": "Golden Longsword",
+    "weapon.dagger_golden": "Golden Dagger",
+    "weapon.lsword_diamond": "Diamond Longsword",
+    "weapon.dagger_diamond": "Diamond Dagger",
+    "weapon.lsword_netherite": "Netherite Longsword",
+    "weapon.dagger_netherite": "Netherite Dagger",
+
+    "weapon.very_low": "Very Low Durability",
+    "weapon.low": "Low Durability",
+    "weapon.moderate": "Moderate Durability",
+    "weapon.high": "High Durability",
+    "weapon.very_high": "Very High Durability",
+
+
+# Equipment
+    "equipment.saddle_1": "Leather Saddle",
+    "equipment.saddle_1.description": "The Leather Saddle is a simple yet reliable choice for horse riders.\nIt provides the basic comfort and stability needed for a comfortable\nride, ensuring a pleasant journey through the lands beyond.",
+    "equipment.saddle_2": "Racing Saddle",
+    "equipment.saddle_2.description": "The Racing Saddle is a specially crafted saddle designed for speed enthusiasts. It enhances the\nhorse's natural swiftness, granting it an additional level of speed and\nmaking it a prime choice for thrilling races and swift journeys.",
+    "equipment.saddle_3": "Superior Saddle",
+    "equipment.saddle_3.description": "The Superior Saddle is a masterfully crafted piece that\ntakes horse speed to new heights. With a remarkable increase in speed,\nit propels your steed to unparalleled swiftness, making it\nthe ultimate choice for races and expeditions.",
+    "equipment.saddle_4": "Mastercrafted Saddle",
+    "equipment.saddle_4.description": "The Mastercrafted Saddle is a work of true artistry and engineering\nexcellence. It bestows upon your loyal companion an extraordinary\nspeed boost, propelling it to unmatched velocities.",
+    "equipment.saddle_5": "Divine Saddle",
+    "equipment.saddle_5.description": "A saddle glowing with divine light, imbued with celestial\npower that grants your horse unparalleled speed. It feels as\nif the steed is propelled by otherworldly forces, allowing it\nto glide effortlessly over the ground, transcending the\nboundaries of the natural world.",
+
+    "equipment.horse_armor_1": "Light Horse Armor",
+    "equipment.horse_armor_1.description": "The Light Horse Armor is a lightweight and flexible choice for\nthose seeking protection without compromising mobility.",
+    "equipment.horse_armor_2": "Steel Horse Armor",
+    "equipment.horse_armor_2.description": "The Steel Horse Armor is a sturdy and resilient piece of\nequipment for your loyal steed. Crafted with the finest iron, it\nprovides superior protection.",
+    "equipment.horse_armor_3": "Heavy Horse Armor",
+    "equipment.horse_armor_3.description": "The Heavy Horse Armor is a marvel of craftsmanship and elegance,\nadorned with intricate designs and luxurious materials. This\nprestigious armor is fit for the most discerning riders and their\nnoble steeds.",
+    "equipment.horse_armor_4": "Platted Horse Armor",
+    "equipment.horse_armor_4.description": "The Platted Horse Armor is a testament to the skill and artistry\nof the finest armorers. Carefully crafted with rare materials and\nenchantments, it bestows the horse with extraordinary protection. This\nprestigious armor is reserved for the bravest of steeds, ready to\nface the most perilous of battles.",
+    "equipment.horse_armor_5": "Netherite Horse Armor",
+    "equipment.horse_armor_5.description": "Fire Resistance\nThis enchanted armor, forged in the infernal depths of the\nMolten Abyss, not only offers unparalleled protection but also\nlightens your horse's burden. Imbued with netherite's resilient essence, it strengthens your\nsteed and allows it to move with a supernatural agility, defying\nthe weight of the world.",
+
+
+    "equipment.legendary_weapon": "♦ Legendary Weapon ♦",
+    "equipment.legendary_armor": "♦ Legendary Armor ♦",
+    "equipment.artifact": "♦ Artifact ♦",
+
+    "equipment.quiver": "Relic of the First Hunt",
+    "equipment.quiver.description": "Higher stackable Arrows when equipped",
+    "equipment.amethyst_bow": "Amethyst Bow",
+    "equipment.amethyst_bow.description": "A weapon from beyond the mist.\nVery High Durability\nTeleports you to landing place,\nif shot while crouching.",
+    "equipment.mistbreaker_wings": "Mistbreaker Wings",
+    "equipment.mistbreaker_wings.description": "An armor from beyond the mist\nNearly unbreakable and expanding\nhealth of the wearer.\nTeleports the caster between dimensions.",
+    "equipment.lightbringer": "Lightbringer",
+    "equipment.lightbringer.description": "A weapon from the old age.\nVery High Durability\nCreates a wave of light\ndealing heavy damage.",
+
+    "equipment.fiery_elytra": "Fiery Elytra",
+    "equipment.fiery_elytra.description": "Looted from a Veilbreakers ship,\nthis elytra provide a wonderful\nopportunity to travel.\nActivated by crouching.\nMagicka Cost: 800/usage",
+    "equipment.wafer_thin_elytra": "Wafer-thin Elytra",
+    "equipment.wafer_thin_elytra.description": "Looted from a Veilbreakers ship,\nthis elytra provide a wonderful\nopportunity to travel.",
+    "equipment.camouflaging_elytra": "Camouflaging Elytra",
+    "equipment.camouflaging_elytra.description": "Looted from a Veilbreakers ship,\nthis elytra provide a wonderful\nopportunity to travel.",
+
+    "artifact.ring_1": "Ring of Erazor the All-Seeing",
+    "artifact.ring_1.description": "A magic-infused topaz boosts\nthe wearer's magicka regeneration,\nif equipped.",
+    "artifact.ring_2": "Ring of Vormir the Shifted",
+    "artifact.ring_2.description": "A magic-infused emerald turns\nthe wearer nearly invisible,\nif equipped.",
+    "artifact.ring_3": "Ring of Sylpharion the Eager",
+    "artifact.ring_3.description": "A magic-infused ruby transforms\nsuffered damage into health, if equipped.\nRequires magicka to function.",
+    "artifact.ring_4": "Ring of Isildra the Precise",
+    "artifact.ring_4.description": "A magic-infused golden beryl reduces\nmagicka costs of spell casting\nby 25% ,if equipped.",
+
+
+
+
+    "artifact.evasive_shard": "Evasive Shard",
+    "artifact.evasive_shard.description": "An artifact from the old age.\nPrevents the wearer from entering\nany boss fight, when held with offhand.",
+    "artifact.luck_book": "Tome of Serendipity",
+    "artifact.luck_book.description": "An artifact from the old age.\nMore loot can be found in chests\nand barrels, when held with offhand.",
+    "artifact.breeding_stone": "The Progenitor's Stone",
+    "artifact.breeding_stone.description": "A rune of unity, that awakens love in all beings.\nMagicka Cost: 8000/usage\nUsage 1/day",
+
+    "crystal.lesser": "Lesser Soul Crystal",
+    "crystal.common": "Common Soul Crystal",
+    "crystal.greater": "Greater Soul Crystal",
+    "crystal.soul_crystal.description": "Used for magical rituals.",
+    "crystal.glowstone_refined": "Refined Glowstone Dust",
+    "crystal.glowstone_potent": "Potent Glowstone Dust",
+    "crystal.glowstone_refined.description": "Used for Plentiful Potions in a cauldron.",
+    "crystal.glowstone_potent.description": "Used for Vigorous Potions in a cauldron.",
+
+
+
+
+# Magic Additions
+# dialog menu
+    "dialog.gd_magic_base": "Magical Schools",
+    "dialog.gd_alchemy_title": "The School of Alchemy",
+
+
+# Novice Apprentice Adept Expert Master
+
+    "advancement.gd_magic_base": "GD Magic Additions",
+    "advancement.description.gd_magic_base": "Magical Schools",
+
+    "advancement.alchemy_1": "Novice Alchemy",
+    "advancement.description.alchemy_1": "Unlocks the brewing stand recipe",
+    "advancement.alchemy_2": "Adept Alchemy",
+    "advancement.description.alchemy_2": "+25% duration of effect",
+    "advancement.alchemy_3": "Adept Alchemy",
+    "advancement.description.alchemy_3": "+50% duration of effect",
+    "advancement.alchemy_4": "Expert Alchemy",
+    "advancement.description.alchemy_4": "+100% duration of effect",
+    "advancement.alchemy_5": "Master Alchemy",
+    "advancement.description.alchemy_5": "WIP",
+
+    "advancement.alchemy_crafting_1": "Minor Potion Brewing",
+    "advancement.description.alchemy_crafting_1": "Unlocks minor potion recipes for the crafting table",
+    "advancement.alchemy_crafting_2": "Potion Brewing",
+    "advancement.description.alchemy_crafting_2": "Unlocks normal potion recipes for the crafting table\nUnlocks splash potion variants for the crafting table",
+    "advancement.alchemy_crafting_3": "Plentiful Potion Brewing",
+    "advancement.description.alchemy_crafting_3": "Unlocks plentiful potion recipes for the cauldron\nUnlocks lingering potion variants for the crafting table",
+    "advancement.alchemy_crafting_4": "Vigorous Potion Brewing",
+    "advancement.description.alchemy_crafting_4": "Unlocks vigorous potion recipes for the cauldron",
+
+    "advancement.alchemy_consume_1": "Battle Quaffing I",
+    "advancement.description.alchemy_consume_1": "-15% drinking time for potions",
+    "advancement.alchemy_consume_2": "Battle Quaffing II",
+    "advancement.description.alchemy_consume_2": "-30% drinking time for potions",
+
+    "advancement.alchemy_stack_1": "Expanded Vials I",
+    "advancement.description.alchemy_stack_1": "Stacking 2 potions",
+    "advancement.alchemy_stack_2": "Expanded Vials II",
+    "advancement.description.alchemy_stack_2": "Stacking 3 potions",
+
+    "advancement.alchemy_physician_1": "Physician I",
+    "advancement.description.alchemy_physician_1": "+1 healing potion strength\n+25% magicka potion strength",
+    "advancement.alchemy_physician_2": "Physician II",
+    "advancement.description.alchemy_physician_2": "+2 healing potion strength\n+50% magicka potion strength",
+
+    "advancement.alchemy_weapon_oil": "Blade Coating",
+    "advancement.description.alchemy_weapon_oil": "Unlocks weapon oil creation",
+    "advancement.alchemy_armor_oil": "Plate Coating",
+    "advancement.description.alchemy_armor_oil": "Unlocks armor oil creation",
+    "advancement.alchemy_oil_bonus": "Alchemical Potency",
+    "advancement.description.alchemy_oil_bonus": "+50% oil strength",
+
+    "advancement.alchemy_refinement_1": "Arcane Refinement I",
+    "advancement.description.alchemy_refinement_1": "Unlocks Refined Glowstone Dust\nUnlocks Lesser Soul Crystral",
+    "advancement.alchemy_refinement_2": "Arcane Refinement II",
+    "advancement.description.alchemy_refinement_2": "Unlocks Potent Glowstone Dust\nUnlocks Common Soul Crystral",
+    "advancement.alchemy_refinement_3": "Arcane Refinement III",
+    "advancement.description.alchemy_refinement_3": "Unlocks Greater Soul Crystral",
+
+    "advancement.alchemy_potion_bonus_1": "Overcharged Elixirs I",
+    "advancement.description.alchemy_potion_bonus_1": "Adds a 33% chance for increased potion potency",
+    "advancement.alchemy_potion_bonus_2": "Overcharged Elixirs II",
+    "advancement.description.alchemy_potion_bonus_2": "Adds a 33% chance to spawn an area effect cloud",
+
+    "skill.book_unlock_1": "Novice Skill Book",
+    "skill.book_unlock_1.description": "Can be used to unlock novice skills",
+    "skill.book_unlock_2": "Apprentice Skill Book",
+    "skill.book_unlock_2.description": "Can be used to unlock apprentice skills",
+    "skill.book_unlock_3": "Adept Skill Book",
+    "skill.book_unlock_3.description": "Can be used to unlock adept skills",
+    "skill.book_unlock_4": "Expert Skill Book",
+    "skill.book_unlock_4.description": "Can be used to unlock expert skills",
+    "skill.book_unlock_5": "Master Skill Book",
+    "skill.book_unlock_5.description": "Can be used to unlock master skills",
+
+
+
+
+
+
+
+
+
+    "skill.message_unlock_1": "Unlocks a Novice Skill Level",
+    "skill.message_unlock_2": "Unlocks an Apprentice Skill Level",
+    "skill.message_unlock_3": "Unlocks an Adept Skill Level",
+    "skill.message_unlock_4": "Unlocks an Expert Skill Level",
+    "skill.message_unlock_5": "Unlocks a Master Skill Level",
+
+    "skill.alchemy_main_level": "Alchemy Level",
+    "skill.alchemy_brewing": "Potion Brewing",
+    "skill.alchemy_drinking": "Battle Quaffing",
+    "skill.alchemy_stacking": "Expanded Vials",
+    "skill.alchemy_refine": "Arcane Refinement",
+    "skill.alchemy_physician": "Physician",
+    "skill.alchemy_overcharge": "Overcharged Elixirs",
+    "skill.alchemy_oil": "Equipment Oil",
+    "skill.alchemy_reduce": "Reduce Book Level",
+
+   "skill.needed_book_level_1": "Novice Skill Book needed",
+   "skill.needed_book_level_2": "Apprentice Skill Book needed",
+   "skill.needed_book_level_3": "Adept Skill Book needed",
+   "skill.needed_book_level_4": "Expert Skill Book needed",
+   "skill.needed_book_level_5": "Master Skill Book needed",
+
+   "skill.level_yes": "Yes",
+   "skill.level_no": "No",
+    "skill.level_unlock_title": "Unlock",
+    "skill.level_unlock_fail": "Unlocked parent skill level required",
+    "skill.level_unlock_already": "Skill level already unlocked",
+    "skill.level_unlock_incorrect": "Skill book level incorrect",
+    "skill.level_unlock_skill_level": "Unlock Skill Level",
+    "skill.level_reduce_skill_level": "Note: By reducing the book skill level, no experience is returned!",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# "fallback":"xxx","translate":"xxx"
+# Gauge
+    "gauge.effect_bleeding": "Bleeding Effect",
+    "gauge.effect_holy": "Sanctification Effect",
+    "gauge.effect_floating": "Floating Effect",
+    "gauge.effect_frostbite": "Frostbite Effect",
+    "gauge.effect_poison": "Poisoning Effect",
+    "gauge.effect_tongue_of_fire": "Tongue of Fire Effect Effect",
+    "gauge.effect_wither": "Withering Effect",
+
+# Oils
+    "oil.fish": "Fish Oil",
+    "oil.description_fish": "Used to create weapon and armor oils in a cauldron.",
+
+    "oil.poisoning_1": "Weak Poisoning Oil",
+    "oil.description_poisoning_1": "  ☠ Weapon Oil\nUsed to add a poisoning effect\nfor 100 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.poisoning_2": "Moderate Poisoning Oil",
+    "oil.description_poisoning_2": "  ☠ Weapon Oil\nUsed to add a poisoning effect\nfor 250 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.poisoning_3": "Strong Poisoning Oil",
+    "oil.description_poisoning_3": "  ☠ Weapon Oil\nUsed to add a poisoning effect\nfor 500 hits to a weapon.\nRight click weapon with oil in offhand.",
+
+    "oil.holy_1": "Weak Sanctification Oil",
+    "oil.description_holy_1": "  ❇ Weapon Oil\nUsed to add a sanctification effect\nfor 100 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.holy_2": "Moderate Sanctification Oil",
+    "oil.description_holy_2": "  ❇ Weapon Oil\nUsed to add a sanctification effect\nfor 250 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.holy_3": "Strong Sanctification Oil",
+    "oil.description_holy_3": "  ❇ Weapon Oil\nUsed to add a sanctification effect\nfor 500 hits to a weapon.\nRight click weapon with oil in offhand.",
+
+    "oil.frostbite_1": "Weak Frostbite Oil",
+    "oil.description_frostbite_1": "  ❄ Weapon Oil\nUsed to add a frostbite effect\nfor 100 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.frostbite_2": "Moderate Frostbite Oil",
+    "oil.description_frostbite_2": "  ❄ Weapon Oil\nUsed to add a frostbite effect\nfor 250 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.frostbite_3": "Strong Frostbite Oil",
+    "oil.description_frostbite_3": "  ❄ Weapon Oil\nUsed to add a frostbite effect\nfor 500 hits to a weapon.\nRight click weapon with oil in offhand.",
+
+    "oil.withering_1": "Weak Withering Oil",
+    "oil.description_withering_1": "  ‡ Weapon Oil\nUsed to add a withering effect\nfor 100 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.withering_2": "Moderate Withering Oil",
+    "oil.description_withering_2": "  ‡ Weapon Oil\nUsed to add a withering effect\nfor 250 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.withering_3": "Strong Withering Oil",
+    "oil.description_withering_3": "  ‡ Weapon Oil\nUsed to add a withering effect\nfor 500 hits to a weapon.\nRight click weapon with oil in offhand.",
+
+    "oil.levitation_1": "Weak Levitation Oil",
+    "oil.description_levitation_1": "  ☁ Weapon Oil\nUsed to add a levitation effect\nfor 100 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.levitation_2": "Moderate Levitation Oil",
+    "oil.description_levitation_2": "  ☁ Weapon Oil\nUsed to add a levitation effect\nfor 250 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.levitation_3": "Strong Levitation Oil",
+    "oil.description_levitation_3": "  ☁ Weapon Oil\nUsed to add a levitation effect\nfor 500 hits to a weapon.\nRight click weapon with oil in offhand.",
+
+    "oil.shocking_1": "Weak Shocking Oil",
+    "oil.description_shocking_1": "  ⚡ Weapon Oil\nUsed to add a shocking effect\nfor 100 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.shocking_2": "Moderate Shocking Oil",
+    "oil.description_shocking_2": "  ⚡ Weapon Oil\nUsed to add a shocking effect\nfor 250 hits to a weapon.\nRight click weapon with oil in offhand.",
+    "oil.shocking_3": "Strong Shocking Oil",
+    "oil.description_shocking_3": "  ⚡ Weapon Oil\nUsed to add a shocking effect\nfor 500 hits to a weapon.\nRight click weapon with oil in offhand.",
+
+    "oil.fire_1": "Weak Ember Oil",
+    "oil.description_fire_1": "  ☼ Armor Oil\nUsed to add an ember effect\nfor 250 hits to a piece of armor.\nRight click armor with oil in offhand.",
+    "oil.fire_2": "Moderate Ember Oil",
+    "oil.description_fire_2": "  ☼ Armor Oil\nUsed to add an ember effect\nfor 500 hits to a piece of armor.\nRight click armor with oil in offhand.",
+    "oil.fire_3": "Strong Ember Oil",
+    "oil.description_fire_3": "  ☼ Armor Oil\nUsed to add an ember effect\nfor 1000 hits to a piece of armor.\nRight click armor with oil in offhand.",
+
+   "oil.message_fire": "Reached Maximum Ember-Charge - ",
+   "oil.message_frostbite": "Reached Maximum Frostbite-Charge - ",
+   "oil.message_holy": "Reached Maximum Sanctification-Charge - ",
+   "oil.message_withering": "Reached Maximum Withering-Charge - ",
+   "oil.message_poisoning": "Reached Maximum Poisoning-Charge - ",
+   "oil.message_levitation": "Reached Maximum Levitation-Charge - ",
+   "oil.message_shocking": "Reached Maximum Shocking-Charge - ",
+
+   "oil.apply_poisoning": "Added Poisoning-Effect to Weapon - ",
+   "oil.actionbar_poisoning": " poisoning attacks left",
+   "oil.apply_holy": "Added Sanctification-Effect to Weapon - ",
+   "oil.actionbar_holy": " sanctification attacks left",
+   "oil.apply_frostbite": "Added Frostbite-Effect to Weapon - ",
+   "oil.actionbar_frostbite": " frostbite attacks left",
+   "oil.apply_withering": "Added Withering-Effect to Weapon - ",
+   "oil.actionbar_withering": " withering attacks left",
+   "oil.apply_levitation": "Added Levitation-Effect to Weapon - ",
+   "oil.actionbar_levitation": " levitation attacks left",
+   "oil.apply_shocking": "Added Shocking-Effect to Weapon - ",
+   "oil.actionbar_shocking": " shocking attacks left",
+
+   "oil.apply_fire": "Added Ember-Effect to Piece of Armor - ",
+   "oil.actionbar_fire": " ember hits left",
+
+
+# Potions
+
+    "potion.mana_instant_1": "Potion of Minor Magicka",
+    "potion.description.mana_instant_1": "Replenishes 1000 points of magicka.",
+    "potion.mana_instant_2": "Potion of Magicka",
+    "potion.description.mana_instant_2": "Replenishes 2000 points of magicka.",
+    "potion.mana_instant_3": "Potion of Plentiful Magicka",
+    "potion.description.mana_instant_3": "Replenishes 4000 points of magicka.",
+    "potion.mana_instant_4": "Potion of Vigorous Magicka",
+    "potion.description.mana_instant_4": "Replenishes 8000 points of magicka.",
+
+    "potion.mana_regeneration_1": "Potion of Minor Magicka Regeneration",
+    "potion.description.mana_regeneration_1": "Increases magicka regeneration for 1 minute.",
+    "potion.mana_regeneration_2": "Potion of Magicka Regeneration",
+    "potion.description.mana_regeneration_2": "Increases magicka regeneration for 2 minutes.",
+    "potion.mana_regeneration_3": "Potion of Plentiful Magicka Regeneration",
+    "potion.description.mana_regeneration_3": "Increases magicka regeneration for 4 minutes.",
+    "potion.mana_regeneration_4": "Potion of Vigorous Magicka Regeneration",
+    "potion.description.mana_regeneration_4": "Increases magicka regeneration for 8 minutes.",
+
+    "potion.luck_1": "Potion of Minor Luck",
+    "potion.luck_2": "Potion of Luck",
+    "potion.luck_3": "Potion of Plentiful Luck",
+    "potion.luck_4": "Potion of Vigorous Luck",
+
+    "potion.mining_1": "Potion of Minor Mining",
+    "potion.mining_2": "Potion of Mining",
+    "potion.mining_3": "Potion of Plentiful Mining",
+    "potion.mining_4": "Potion of Vigorous Mining",
+
+    "potion.bull_1": "Potion of Minor Bull Strength",
+    "potion.bull_2": "Potion of Bull Strength",
+    "potion.bull_3": "Potion of Plentiful Bull Strength",
+    "potion.bull_4": "Potion of Vigorous Bull Strength",
+
+    "potion.charisma_1": "Potion of Minor Charisma",
+    "potion.charisma_2": "Potion of Charisma",
+    "potion.charisma_3": "Potion of Plentiful Charisma",
+    "potion.charisma_4": "Potion of Vigorous Charisma",
+
+    "potion.levitation_1": "Potion of Minor Levitation",
+    "potion.levitation_2": "Potion of Levitation",
+    "potion.levitation_3": "Potion of Plentiful Levitation",
+    "potion.levitation_4": "Potion of Vigorous Levitation",
+
+    "potion.oak_skin_1": "Potion of Minor Oak Skin",
+    "potion.oak_skin_2": "Potion of Oak Skin",
+    "potion.oak_skin_3": "Potion of Plentiful Oak Skin",
+    "potion.oak_skin_4": "Potion of Vigorous Oak Skin",
+
+    "potion.endurance_1": "Potion of Minor Endurance",
+    "potion.endurance_2": "Potion of Endurance",
+    "potion.endurance_3": "Potion of Plentiful Endurance",
+    "potion.endurance_4": "Potion of Vigorous Endurance",
+
+    "potion.aqua_affinity_1": "Potion of Minor Aqua Affinity",
+    "potion.aqua_affinity_2": "Potion of Aqua Affinity",
+    "potion.aqua_affinity_3": "Potion of Plentiful Aqua Affinity",
+    "potion.aqua_affinity_4": "Potion of Vigorous Aqua Affinity",
+
+    "potion.fire_1": "Potion of Minor Ember",
+    "potion.fire_2": "Potion of Ember",
+    "potion.fire_3": "Potion of Plentiful Ember",
+    "potion.fire_4": "Potion of Vigorous Ember",
+
+    "potion.frostbite_1": "Potion of Minor Frostbite",
+    "potion.frostbite_2": "Potion of Frostbite",
+    "potion.frostbite_3": "Potion of Plentiful Frostbite",
+    "potion.frostbite_4": "Potion of Vigorous Frostbite",
+
+    "potion.holy_1": "Potion of Minor Sanctification",
+    "potion.holy_2": "Potion of Sanctification",
+    "potion.holy_3": "Potion of Plentiful Sanctification",
+    "potion.holy_4": "Potion of Vigorous Sanctification",
+
+    "potion.wither_1": "Potion of Minor Withering",
+    "potion.wither_2": "Potion of Withering",
+    "potion.wither_3": "Potion of Plentiful Withering",
+    "potion.wither_4": "Potion of Vigorous Withering",
+
+    "potion.poison_1": "Potion of Minor Poisoning",
+    "potion.poison_2": "Potion of Poisoning",
+    "potion.poison_3": "Potion of Plentiful Poisoning",
+    "potion.poison_4": "Potion of Vigorous Poisoning",
+
+    "potion.despair_1": "Potion of Minor Despair",
+    "potion.despair_2": "Potion of Despair",
+    "potion.despair_3": "Potion of Plentiful Despair",
+    "potion.despair_4": "Potion of Vigorous Despair",
+
+    "potion.invincibility_1": "Potion of Minor Invincibility",
+    "potion.invincibility_2": "Potion of Invincibility",
+    "potion.invincibility_3": "Potion of Plentiful Invincibility",
+    "potion.invincibility_4": "Potion of Vigorous Invincibility",
+
+    "potion.shocking_1": "Potion of Minor Shocking",
+    "potion.shocking_2": "Potion of Shocking",
+    "potion.shocking_3": "Potion of Plentiful Shocking",
+    "potion.shocking_4": "Potion of Vigorous Shocking",
+
+
+
+
+
+
+
+
+
+
+
+    "potion.message.mana_potion": "You aren't strong enought for this amount of magicka. ",
+
+
+
+# Runes
+    "rune.name_block_interaction_range": "Stone Rune of Higher Range.",
+    "rune.name_block_interaction_range_lore": "Unlocking +1 Range",
+    "rune.name_max_companionCount": "Stone Rune of Fellowship.",
+    "rune.name_max_companionCount_lore": "Unlocking +1 Simultaneous Companion",
+    "rune.name_max_health": "Stone Rune of Greater Health.",
+    "rune.name_max_health_lore": "Unlocking +2 Max Health",
+    "rune.name_max_mana": "Stone Rune of Magicka.",
+    "rune.name_max_mana_lore": "Unlocking +1000 Max Magicka",
+    "rune.name_oxygen_bonus": "Stone Rune of Longer Breath.",
+    "rune.name_oxygen_bonus_lore": "Unlocking +20% Longer Breath",
+    "rune.name_safe_fall": "Stone Rune of Lesser Fall Damage.",
+    "rune.name_safe_fall_lore": "Unlocking +1 Safe Fall Distance",
+    "rune.name_concinnity": "Stone Rune of Concinnity.",
+    "rune.name_concinnity_lore": "Removing All Attribute Modifiers",
+
+
+    "rune.message.max_modifier": "Maximum modifier reached.",
+    "rune.message.modifier": "Current Modifier: ",
+    "rune.message.modifier_success": "By the might of an ancient rune, ye have permanently increased thy ",
+    "rune.message.modifier_success_block_interaction_range": "Increases the player's block interaction range",
+    "rune.message.modifier_success_block_interaction_range2": "maximum range",
+    "rune.message.modifier_success_max_companionCount": "Increases the player's simultaneous companion count",
+    "rune.message.modifier_success_max_companionCount2": "maximum companion count",
+    "rune.message.modifier_success_max_health": "Increases the player's max health",
+    "rune.message.modifier_success_max_health2": "maximum health",
+    "rune.message.modifier_success_max_mana": "Increases the player's useable magicka",
+    "rune.message.modifier_success_max_mana2": "maximum magicka",
+    "rune.message.modifier_success_oxygen_bonus": "Increases the player's breath time underwater",
+    "rune.message.modifier_success_oxygen_bonus2": "maximum oxygen",
+    "rune.message.modifier_success_safe_fall": "Increases the player's save fall distance",
+    "rune.message.modifier_success_safe_fall2": "maximum save fall distance",
+
+
+    "rune.message.block_interaction_range": " Block Interaction Range",
+    "rune.message.max_companionCount": " Simultaneous Companions",
+    "rune.message.max_health": " Health",
+    "rune.message.max_mana": " Magicka",
+    "rune.message.oxygen_bonus": " x 20% Oxygen",
+    "rune.message.safe_fall": " Safe Fall Distance",
+
+    "rune.message.breeding_stone": "Breeding Ritual Not Ready",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "message.minecraft.missing": ""
+}

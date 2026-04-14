@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_8",
+  "textures": {
+    "planks": "minecraft:block/oak_planks",
+    "logs": "minecraft:block/oak_log"
+  }
+}

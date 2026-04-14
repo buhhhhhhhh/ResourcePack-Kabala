@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "direction=down": {
+      "model": "cinderscapes:block/polypite_smoky_quartz_floor"
+    },
+    "direction=east": {
+      "model": "cinderscapes:block/polypite_smoky_quartz_wall",
+      "x": 270
+    },
+    "direction=north": {
+      "model": "cinderscapes:block/polypite_smoky_quartz_wall",
+      "y": 180
+    },
+    "direction=south": {
+      "model": "cinderscapes:block/polypite_smoky_quartz_wall"
+    },
+    "direction=up": {
+      "model": "cinderscapes:block/polypite_smoky_quartz_floor",
+      "x": 180
+    },
+    "direction=west": {
+      "model": "cinderscapes:block/polypite_smoky_quartz_wall",
+      "y": 90
+    }
+  }
+}

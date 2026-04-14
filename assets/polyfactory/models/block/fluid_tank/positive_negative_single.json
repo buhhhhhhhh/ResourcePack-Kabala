@@ -1,0 +1,1 @@
+{"parent":"polyfactory:block/directional_cube_inner","textures":{"west":"polyfactory:block/empty","east":"polyfactory:block/fluids/tank/side_single_negative","north":"polyfactory:block/fluids/tank/side_negative_negative","south":"polyfactory:block/fluids/tank/side_positive_negative","up":"polyfactory:block/empty","down":"polyfactory:block/fluids/tank/bottom_positive_single"}}

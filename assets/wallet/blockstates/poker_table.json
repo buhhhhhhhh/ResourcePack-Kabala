@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "wallet:block/poker_table_2_1", "y": 0 },
+    "facing=west": { "model": "wallet:block/poker_table_2_1", "y": 90 },
+    "facing=north": { "model": "wallet:block/poker_table_2_1", "y": 180 },
+    "facing=east": { "model": "wallet:block/poker_table_2_1", "y": 270 }
+  }
+}

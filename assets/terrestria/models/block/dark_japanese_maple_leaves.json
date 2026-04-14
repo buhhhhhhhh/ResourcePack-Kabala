@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "terrestria:block/dark_japanese_maple_leaves"
+  }
+}

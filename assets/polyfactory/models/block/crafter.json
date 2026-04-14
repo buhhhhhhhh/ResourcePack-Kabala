@@ -1,0 +1,1 @@
+{"parent":"block/cube","textures":{"down":"polyfactory:block/crafter/bottom","up":"polyfactory:block/crafter/top","north":"polyfactory:block/crafter/front","south":"polyfactory:block/crafter/back","west":"polyfactory:block/crafter/side","east":"polyfactory:block/crafter/side","particle":"#north"}}

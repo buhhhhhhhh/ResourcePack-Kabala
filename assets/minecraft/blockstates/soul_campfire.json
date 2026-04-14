@@ -1,0 +1,1 @@
+{"variants":{"facing=west,lit=false,signal_fire=true,waterlogged=false":[{"model":"polymer:block/empty","x":0,"y":0,"uvlock":false,"weight":1}],"facing=west,lit=false,signal_fire=true,waterlogged=true":[{"model":"polymer:block/empty","x":0,"y":0,"uvlock":false,"weight":1}]}}

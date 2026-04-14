@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_6",
+  "textures": {
+    "planks": "blockus:block/raw_bamboo_planks",
+    "logs": "minecraft:block/stripped_bamboo_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_bench_norest_middle",
+  "textures": {
+    "planks": "terrestria:block/rubber_planks",
+    "logs": "terrestria:block/rubber_log"
+  }
+}

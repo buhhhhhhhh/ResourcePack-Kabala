@@ -1,0 +1,1 @@
+{"model":{"property":"minecraft:using_item","on_true":{"model":"polyfactory:item/pressure_fluid_gun_active","type":"minecraft:model"},"on_false":{"model":"polyfactory:item/pressure_fluid_gun","type":"minecraft:model"},"type":"minecraft:condition"},"hand_animation_on_swap":false}

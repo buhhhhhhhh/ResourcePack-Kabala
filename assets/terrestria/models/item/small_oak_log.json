@@ -1,0 +1,7 @@
+{
+  "parent": "terraform:item/small_log",
+  "textures": {
+    "all": "minecraft:block/oak_log",
+    "particle": "minecraft:block/oak_log"
+  }
+}

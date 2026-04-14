@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:block/statue/stone/body",
+  "textures": {
+    "0": "block/granite"
+  }
+}

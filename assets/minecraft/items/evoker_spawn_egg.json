@@ -1,0 +1,41 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 0,
+		"model": {
+			"type": "model",
+			"model": "minecraft:item/evoker_spawn_egg"
+		}
+	},{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/wizard_ability_fire"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/wizard_ability_ice"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/wizard_ability_protection"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/wizard_ability_lightning"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/evoker_spawn_egg"
+	}
+    }
+}

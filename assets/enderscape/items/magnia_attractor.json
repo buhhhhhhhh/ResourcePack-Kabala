@@ -1,0 +1,1 @@
+{"model":{"property":"minecraft:custom_model_data","on_true":{"model":"enderscape:item/magnia_attractor_active","type":"minecraft:model"},"on_false":{"model":"enderscape:item/magnia_attractor","type":"minecraft:model"},"type":"minecraft:condition"}}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cinderscapes:block/ghastly_ectoplasm_bottom"
+    },
+    "type=middle": {
+      "model": "cinderscapes:block/ghastly_ectoplasm_middle"
+    },
+    "type=top": {
+      "model": "cinderscapes:block/ghastly_ectoplasm_top"
+    }
+  }
+}

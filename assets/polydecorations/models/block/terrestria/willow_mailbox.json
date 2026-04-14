@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_terrestria/willow",
+    "stripped_log": "terrestria:block/stripped_willow_log",
+    "stripped_log_top": "terrestria:block/stripped_willow_log_top",
+    "log": "terrestria:block/willow_log",
+    "log_top": "terrestria:block/willow_log_top"
+  }
+}

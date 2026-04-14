@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table",
+  "textures": {
+    "planks": "enderscape:block/murublight_planks",
+    "logs": "enderscape:block/murublight_stem"
+  }
+}

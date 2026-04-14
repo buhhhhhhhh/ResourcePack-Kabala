@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:block/statue/stone/head",
+  "textures": {
+    "0": "terrestria:block/sakura_planks"
+  }
+}

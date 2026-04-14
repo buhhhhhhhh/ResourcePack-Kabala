@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "snowy=false": {
+      "model": "terrestria:block/andisol_podzol"
+    },
+    "snowy=true": {
+      "model": "terrestria:block/andisol_grass_block_snow"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump",
+  "textures": {
+    "top": "polydecorations:block/stripped_crimson_stem_stump_top",
+    "side": "minecraft:block/stripped_crimson_stem"
+  }
+}

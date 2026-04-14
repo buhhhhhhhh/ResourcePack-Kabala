@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:block/statue/stone/right_leg",
+  "textures": {
+    "0": "block/packed_mud"
+  }
+}

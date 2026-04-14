@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { 	"layer0": "gd:item/consumables/potion_mead_overlay",
+        		"layer1": "gd:item/consumables/potion_mead",
+   			"particle": "gd:item/consumables/potion_mead" }
+}

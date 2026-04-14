@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_birch",
+    "stripped_log": "minecraft:block/stripped_birch_log",
+    "stripped_log_top": "minecraft:block/stripped_birch_log_top",
+    "log": "minecraft:block/birch_log",
+    "log_top": "minecraft:block/birch_log_top"
+  }
+}

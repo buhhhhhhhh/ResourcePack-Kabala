@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/goat_horn",
+  "textures": {
+    "layer0": "illagerexp:item/horn_of_sight"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "tooting": 1
+      },
+      "model": "illagerexp:item/horn_of_sight_using"
+    }
+  ]
+}

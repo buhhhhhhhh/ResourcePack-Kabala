@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": { 	"layer0": "gd:item/spawn_eggs/horse_summon_scroll" }
+}

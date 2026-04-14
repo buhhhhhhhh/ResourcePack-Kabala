@@ -1,0 +1,5 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { 	"layer0": "gd:item/arrows/tipped_arrow_head",
+        		"layer1": "gd:item/arrows/tipped_arrow_base" }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_inventory",
+  "textures": {
+    "all": "cinderscapes:block/scorched_shelf",
+    "particle": "cinderscapes:block/stripped_scorched_stem"
+  }
+}

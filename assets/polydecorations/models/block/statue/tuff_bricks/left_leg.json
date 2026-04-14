@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:block/statue/stone/left_leg",
+  "textures": {
+    "0": "block/tuff_bricks"
+  }
+}

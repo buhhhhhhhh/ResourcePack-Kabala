@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrestria:block/redwood_slab"
+    },
+    "type=double": {
+      "model": "terrestria:block/redwood_planks"
+    },
+    "type=top": {
+      "model": "terrestria:block/redwood_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:item/stone_statue",
+  "textures": {
+    "0": "block/light_gray_terracotta"
+  }
+}

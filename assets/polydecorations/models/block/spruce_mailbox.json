@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_spruce",
+    "stripped_log": "minecraft:block/stripped_spruce_log",
+    "stripped_log_top": "minecraft:block/stripped_spruce_log_top",
+    "log": "minecraft:block/spruce_log",
+    "log_top": "minecraft:block/spruce_log_top"
+  }
+}

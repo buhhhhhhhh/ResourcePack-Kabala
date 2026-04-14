@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:item/stone_statue",
+  "textures": {
+    "0": "woods_and_mires:block/pine_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_shelf_double",
+  "textures": {
+    "planks": "terrestria:block/hemlock_planks",
+    "logs": "terrestria:block/hemlock_log"
+  }
+}

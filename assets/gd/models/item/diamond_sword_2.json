@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": { "layer0": "gd:item/swords/diamond_sword_2" }
+}

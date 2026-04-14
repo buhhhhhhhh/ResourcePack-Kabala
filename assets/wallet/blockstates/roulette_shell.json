@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "local_z=0,facing=south": { "model": "wallet:block/roulette_table_wheel", "y": 0 },
+    "local_z=0,facing=west": { "model": "wallet:block/roulette_table_wheel", "y": 90 },
+    "local_z=0,facing=north": { "model": "wallet:block/roulette_table_wheel", "y": 180 },
+    "local_z=0,facing=east": { "model": "wallet:block/roulette_table_wheel", "y": 270 },
+    "local_z=1,facing=south": { "model": "wallet:block/roulette_table_center", "y": 0 },
+    "local_z=1,facing=west": { "model": "wallet:block/roulette_table_center", "y": 90 },
+    "local_z=1,facing=north": { "model": "wallet:block/roulette_table_center", "y": 180 },
+    "local_z=1,facing=east": { "model": "wallet:block/roulette_table_center", "y": 270 },
+    "local_z=2,facing=south": { "model": "wallet:block/roulette_table_betting", "y": 0 },
+    "local_z=2,facing=west": { "model": "wallet:block/roulette_table_betting", "y": 90 },
+    "local_z=2,facing=north": { "model": "wallet:block/roulette_table_betting", "y": 180 },
+    "local_z=2,facing=east": { "model": "wallet:block/roulette_table_betting", "y": 270 }
+  }
+}

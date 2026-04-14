@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump",
+  "textures": {
+    "top": "polydecorations:block/stripped_jungle_log_stump_top",
+    "side": "minecraft:block/stripped_jungle_log"
+  }
+}

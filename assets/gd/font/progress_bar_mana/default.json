@@ -1,0 +1,78 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/0.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/1.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/2.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/3.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/4.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/5.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/6.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/7.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/8.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana/9.png",
+            "ascent": -14,
+            "height": 10,
+            "chars": ["\u0039"]
+        }
+    ]
+}

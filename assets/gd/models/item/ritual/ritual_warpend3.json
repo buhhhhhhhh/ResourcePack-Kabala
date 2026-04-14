@@ -1,0 +1,24 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": { "layer0": "gd:item/ritual/ritual_warpend3" },
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 0, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#layer0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#layer0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 3, 4]
+		}
+	}
+}
+

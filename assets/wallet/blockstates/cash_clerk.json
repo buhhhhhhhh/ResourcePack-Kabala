@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "wallet:block/cash_clerk", "y": 0 },
+    "facing=west": { "model": "wallet:block/cash_clerk", "y": 90 },
+    "facing=north": { "model": "wallet:block/cash_clerk", "y": 180 },
+    "facing=east": { "model": "wallet:block/cash_clerk", "y": 270 }
+  }
+}

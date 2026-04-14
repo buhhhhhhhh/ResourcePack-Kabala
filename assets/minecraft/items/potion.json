@@ -1,0 +1,94 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 0,
+		"model": {
+			"type": "model",
+			"model": "minecraft:item/potion",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	},{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/potions/potion_minor",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/potions/potion_normal",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/potions/potion_plentiful",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/potions/potion_vigorous",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	},{
+		"threshold": 5,
+		"model": {
+			"type": "model",
+			"model": "gd:item/potions/potion_oil",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	},{
+		"threshold": 10,
+		"model": {
+			"type": "model",
+			"model": "gd:item/potions/potion_mead",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/potions/potion"
+	}
+}}

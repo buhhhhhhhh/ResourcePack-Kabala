@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_tool_rack",
+  "textures": {
+    "planks": "minecraft:block/dark_oak_planks",
+    "logs": "minecraft:block/dark_oak_log"
+  }
+}

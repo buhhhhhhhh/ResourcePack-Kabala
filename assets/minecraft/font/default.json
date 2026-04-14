@@ -1,0 +1,489 @@
+{
+    "providers": [
+          {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+	{
+            "type": "bitmap",
+            "file": "gd:custom/book.png",
+            "ascent": 39,
+            "height": 85,
+            "chars": ["\uA0B1"]
+        },{
+            "type": "bitmap",
+            "file": "gd:custom/freeze.png",
+            "ascent": 39,
+            "height": 100,
+            "chars": ["\uA0B2"]
+        },{
+            "type": "bitmap",
+            "file": "gd:custom/heatstroke.png",
+            "ascent": 39,
+            "height": 85,
+            "chars": ["\uA0B3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_devil.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_grimgar.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_marrow.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_morbex.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_the_covens.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_shadow.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/boss_spider.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uA0A7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_blackstone_maze.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_mirehaven_caves.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_cloud_nomads.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_direwood.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_edinborough_fair.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_emberstone_bastion.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_monastery_of_highpeak.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_catacombs.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/structure_grimstone_mines.png",
+            "ascent": 26,
+            "height": 58,
+            "chars": ["\uE0B8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/trident.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": ["\uEA01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_boots.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_leggings.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_chestplate.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_helmet.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_sword.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_pickaxe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_axe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_hoe.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_shovel.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/bow.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/mace.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA12"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:mob_effect/resistance.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/elytra.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA14"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:custom/ring.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA15"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/saddle.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA16"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/leather_horse_armor.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uEA17"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:cultivation/wheat.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uEA18"]
+        },
+	{
+            "type": "bitmap",
+            "file": "gd:cultivation/carrot.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uEA19"]
+        },
+	{
+            "type": "bitmap",
+            "file": "gd:cultivation/potato.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uEA20"]
+        },
+	{
+            "type": "bitmap",
+            "file": "gd:cultivation/beetroot.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uEA21"]
+        },
+	{
+            "type": "bitmap",
+            "file": "gd:cultivation/nether_wart.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uEA22"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/writable_book.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": ["\uEA23"]
+        },
+	{
+            "type": "bitmap",
+            "file": "gd:magic_table/a.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/b.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/c.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/d.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/e.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/f.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/g.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/h.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/i.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/j.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/k.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/l.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA12"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/m.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/n.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA14"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/o.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA15"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/p.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA16"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/q.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA17"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/r.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA18"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/s.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA19"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/t.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA20"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/u.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA21"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/v.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA22"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/w.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA23"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/x.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA24"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/y.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA25"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/z.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA26"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:magic_table/..png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uFA27"]
+        }
+    ]
+}

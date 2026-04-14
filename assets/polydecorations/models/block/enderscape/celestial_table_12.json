@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_12",
+  "textures": {
+    "planks": "enderscape:block/celestial_planks",
+    "logs": "enderscape:block/celestial_stem"
+  }
+}

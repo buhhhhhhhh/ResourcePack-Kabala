@@ -1,0 +1,7 @@
+{
+  "parent": "wallet:item/card/table_base",
+  "textures": {
+    "card": "wallet:item/card/table/5_diamonds",
+    "particle": "wallet:item/card/table/5_diamonds"
+  }
+}

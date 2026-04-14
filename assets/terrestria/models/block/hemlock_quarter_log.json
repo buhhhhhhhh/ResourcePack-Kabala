@@ -1,0 +1,9 @@
+{
+  "parent": "terraform:block/quarter_log",
+  "textures": {
+    "end": "terrestria:block/hemlock_quarter_log_top",
+    "inside": "terrestria:block/hemlock_quarter_log",
+    "particle": "terrestria:block/hemlock_log",
+    "side": "terrestria:block/hemlock_log"
+  }
+}

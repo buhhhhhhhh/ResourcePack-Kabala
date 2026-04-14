@@ -1,0 +1,9 @@
+{
+  "parent": "terraform:block/quarter_log",
+  "textures": {
+    "end": "terrestria:block/rainbow_eucalyptus_quarter_log_top",
+    "inside": "terrestria:block/rainbow_eucalyptus_quarter_log",
+    "particle": "terrestria:block/rainbow_eucalyptus_log",
+    "side": "terrestria:block/rainbow_eucalyptus_log"
+  }
+}

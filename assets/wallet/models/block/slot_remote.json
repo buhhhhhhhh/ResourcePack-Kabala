@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "wallet:block/slot_remote_front",
+    "front":    "wallet:block/slot_remote_front",
+    "side":     "wallet:block/slot_remote_side",
+    "top":      "wallet:block/slot_remote_top"
+  },
+  "elements": [
+    {
+      "name": "base",
+      "from": [3, 0, 3],
+      "to": [13, 6, 13],
+      "faces": {
+        "north": {"texture": "#front", "uv": [3, 10, 13, 16]},
+        "south": {"texture": "#side",  "uv": [3, 10, 13, 16]},
+        "east":  {"texture": "#side",  "uv": [3, 10, 13, 16]},
+        "west":  {"texture": "#side",  "uv": [3, 10, 13, 16]},
+        "up":    {"texture": "#top",   "uv": [3, 3, 13, 13]},
+        "down":  {"texture": "#top",   "uv": [3, 3, 13, 13]}
+      }
+    }
+  ]
+}

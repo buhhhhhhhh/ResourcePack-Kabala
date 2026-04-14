@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump_tall",
+  "textures": {
+    "top": "polydecorations:block/stripped_blockus/white_oak_log_stump_top",
+    "side": "blockus:block/stripped_white_oak_log"
+  }
+}

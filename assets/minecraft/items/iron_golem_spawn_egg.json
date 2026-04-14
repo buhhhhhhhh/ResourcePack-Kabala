@@ -1,0 +1,59 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 0,
+		"model": {
+			"type": "model",
+			"model": "minecraft:item/iron_golem_spawn_egg"
+		}
+	},{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_fire"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_ice"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_poison"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_lightning"
+		}
+	},{
+		"threshold": 5,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_pillager"
+		}
+	},{
+		"threshold": 6,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_witch"
+		}
+	},{
+		"threshold": 7,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/companion_summon_scroll_familiar"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/iron_golem_spawn_egg"
+	}
+    }
+}

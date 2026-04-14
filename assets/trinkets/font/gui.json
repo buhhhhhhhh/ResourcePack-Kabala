@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                ".": -170,
+                "-": -8
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "trinkets:font_gui/flat_gui.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "trinkets:font_gui/flat_gui_compact.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "1"
+            ]
+        }
+    ]
+}

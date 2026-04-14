@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { "layer0": "gd:item/books/book_horse_heart" }
+}

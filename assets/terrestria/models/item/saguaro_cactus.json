@@ -1,0 +1,7 @@
+{
+  "parent": "terraform:item/small_log",
+  "textures": {
+    "all": "terrestria:block/saguaro_cactus",
+    "particle": "terrestria:block/saguaro_cactus"
+  }
+}

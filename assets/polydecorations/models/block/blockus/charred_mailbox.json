@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_blockus/charred",
+    "stripped_log": "blockus:block/charred_planks",
+    "stripped_log_top": "blockus:block/charred_planks",
+    "log": "blockus:block/charred_planks",
+    "log_top": "blockus:block/charred_planks"
+  }
+}

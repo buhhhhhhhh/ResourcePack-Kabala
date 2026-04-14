@@ -1,0 +1,46 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/stew_beef"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/stew_chicken"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/stew_lamb"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/stew_fish"
+		}
+	},{
+		"threshold": 5,
+		"model": {
+			"type": "model",
+			"model": "gd:item/stew_sausage"
+		}
+	},{
+		"threshold": 6,
+		"model": {
+			"type": "model",
+			"model": "gd:item/stew_vension"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/suspicious_stew"
+	}
+}}

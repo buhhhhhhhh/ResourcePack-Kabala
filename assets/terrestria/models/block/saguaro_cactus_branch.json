@@ -1,0 +1,8 @@
+{
+  "parent": "terraform:block/small_log_branch",
+  "textures": {
+    "end": "terrestria:block/saguaro_cactus_top",
+    "particle": "terrestria:block/saguaro_cactus",
+    "side": "terrestria:block/saguaro_cactus"
+  }
+}

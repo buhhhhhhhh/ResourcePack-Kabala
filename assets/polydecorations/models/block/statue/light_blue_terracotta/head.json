@@ -1,0 +1,6 @@
+{
+  "parent": "polydecorations:block/statue/stone/head",
+  "textures": {
+    "0": "block/light_blue_terracotta"
+  }
+}

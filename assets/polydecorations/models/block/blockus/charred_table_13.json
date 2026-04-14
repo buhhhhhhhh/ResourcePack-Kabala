@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_13",
+  "textures": {
+    "planks": "blockus:block/charred_planks",
+    "logs": "blockus:block/charred_planks"
+  }
+}

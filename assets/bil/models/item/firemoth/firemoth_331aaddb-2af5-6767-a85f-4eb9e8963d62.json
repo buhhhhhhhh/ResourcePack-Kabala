@@ -1,0 +1,1 @@
+{"textures":{"0":"bil:item/firemoth/firemoth","particle":"bil:item/firemoth/firemoth"},"elements":[{"from":[8.0,8.0,1.0],"to":[18.0,8.0,15.0],"faces":{"up":{"texture":"#0","tintindex":0,"uv":[0.0,7.0,5.0,0.0]},"down":{"texture":"#0","tintindex":0,"uv":[0.0,0.0,5.0,7.0]}},"rotation":{"x":0.0,"y":0.0,"z":0.0,"origin":[6.0,4.0,7.0]}}],"display":{"head":{"rotation":[0.0,180.0,0.0]}}}

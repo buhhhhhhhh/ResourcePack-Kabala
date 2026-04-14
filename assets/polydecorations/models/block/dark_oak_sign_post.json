@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_sign_post",
+  "textures": {
+    "planks": "polydecorations:block/sign_post_dark_oak",
+    "logs": "minecraft:block/dark_oak_log"
+  }
+}

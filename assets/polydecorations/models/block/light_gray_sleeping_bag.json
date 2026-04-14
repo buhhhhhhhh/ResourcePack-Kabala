@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_sleeping_bag",
+  "textures": {
+    "texture": "polydecorations:block/sleeping_bag_light_gray",
+    "particle": "minecraft:block/light_gray_wool"
+  }
+}

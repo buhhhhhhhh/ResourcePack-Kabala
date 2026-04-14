@@ -1,0 +1,1 @@
+{"textures":{"0":"bil:item/tuna/texture","particle":"bil:item/tuna/texture"},"elements":[{"from":[8.0,3.0,5.5],"to":[8.0,8.0,13.5],"faces":{"west":{"texture":"#0","tintindex":0,"uv":[6.5,6.5,2.5,9.0]},"east":{"texture":"#0","tintindex":0,"uv":[2.5,6.5,6.5,9.0]}},"rotation":{"x":0.0,"y":0.0,"z":-22.5,"origin":[8.0,8.0,8.0]}}],"display":{"head":{"rotation":[0.0,180.0,0.0]}}}

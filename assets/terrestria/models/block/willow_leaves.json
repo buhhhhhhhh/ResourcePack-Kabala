@@ -1,0 +1,8 @@
+{
+  "parent": "terraform:block/pillar_leaves",
+  "textures": {
+    "end": "terrestria:block/willow_leaves_top",
+    "particle": "terrestria:block/willow_leaves",
+    "side": "terrestria:block/willow_leaves"
+  }
+}

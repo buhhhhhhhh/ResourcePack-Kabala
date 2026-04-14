@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "gui_light": "front",
+  "textures": {
+    "card": "minecraft:item/paper",
+    "particle": "#card"
+  },
+  "elements": [
+    {
+      "from": [2.6667, 7.5, 0.0],
+      "to": [13.3333, 8.5, 16.0],
+      "faces": {
+        "up": { "texture": "#card", "uv": [0.0, 0.0, 16.0, 16.0] },
+        "down": { "texture": "#card", "uv": [16.0, 0.0, 0.0, 16.0] }
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_6",
+  "textures": {
+    "planks": "cinderscapes:block/umbral_planks",
+    "logs": "cinderscapes:block/umbral_stem"
+  }
+}

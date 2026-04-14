@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_woods_and_mires/pine",
+    "stripped_log": "woods_and_mires:block/stripped_pine_log",
+    "stripped_log_top": "woods_and_mires:block/stripped_pine_log_top",
+    "log": "woods_and_mires:block/pine_log",
+    "log_top": "woods_and_mires:block/pine_log_top"
+  }
+}

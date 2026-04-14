@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_inventory",
+  "textures": {
+    "all": "terrestria:block/sakura_shelf",
+    "particle": "terrestria:block/stripped_sakura_log"
+  }
+}

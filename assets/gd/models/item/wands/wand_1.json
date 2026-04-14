@@ -1,0 +1,44 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:item/handheld",
+  "texture_size": [32, 32],
+  "textures": {
+    "1": "diamond_longsword",
+    "layer0": "gd:item/wands/wand_1",
+    "particle": "wand_1"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, -90, 45],
+			"translation": [0, 4, 5],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, -270, -45],
+			"translation": [0, 4, 5],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-150, 90, -180],
+			"translation": [5, 0, 0],
+			"scale": [1.7, 1.7, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [210, -90, 180],
+			"translation": [5, 0, 0],
+			"scale": [1.7, 1.7, 1.2]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [1.3, 1.3, 1.3]
+		},
+		"gui": {
+			"translation": [-6, -6, 0],
+			"scale": [1.7, 1.7, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

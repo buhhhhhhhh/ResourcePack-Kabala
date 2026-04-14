@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump",
+  "textures": {
+    "top": "polydecorations:block/stripped_terrestria/rubber_log_stump_top",
+    "side": "terrestria:block/stripped_rubber_log"
+  }
+}

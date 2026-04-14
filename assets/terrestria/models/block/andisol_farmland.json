@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "terrestria:block/andisol",
+    "top": "terrestria:block/andisol_farmland"
+  }
+}

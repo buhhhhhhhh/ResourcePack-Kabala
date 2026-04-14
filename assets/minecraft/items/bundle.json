@@ -1,0 +1,95 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:bundle/has_selected_item",
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/bundle"
+                },
+                "on_true": {
+                  "type": "minecraft:composite",
+                  "models": [
+                    {
+                      "type": "minecraft:model",
+                      "model": "minecraft:item/bundle_open_back"
+                    },
+                    {
+                      "type": "minecraft:bundle/selected_item"
+                    },
+                    {
+                      "type": "minecraft:model",
+                      "model": "minecraft:item/bundle_open_front"
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bundle"
+          }
+        }
+      },{
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:bundle/has_selected_item",
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "gd:item/equipment/quiver"
+                },
+                "on_true": {
+                  "type": "minecraft:composite",
+                  "models": [
+                    {
+                      "type": "minecraft:model",
+                      "model": "gd:item/equipment/quiver_open_back"
+                    },
+                    {
+                      "type": "minecraft:bundle/selected_item"
+                    },
+                    {
+                      "type": "minecraft:model",
+                      "model": "gd:item/equipment/quiver_open_front"
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "gd:item/equipment/quiver"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bundle"
+    }
+  }
+}
+
+
+

@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_enderscape/murublight",
+    "stripped_log": "enderscape:block/stripped_murublight_stem",
+    "stripped_log_top": "enderscape:block/stripped_murublight_stem_top",
+    "log": "enderscape:block/murublight_stem",
+    "log_top": "enderscape:block/murublight_stem_top"
+  }
+}

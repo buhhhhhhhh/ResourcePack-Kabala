@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "cinderscapes:block/scorched_door_bottom",
+    "top": "cinderscapes:block/scorched_door_top"
+  }
+}

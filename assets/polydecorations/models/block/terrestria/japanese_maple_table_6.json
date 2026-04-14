@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_6",
+  "textures": {
+    "planks": "terrestria:block/japanese_maple_planks",
+    "logs": "terrestria:block/japanese_maple_log"
+  }
+}

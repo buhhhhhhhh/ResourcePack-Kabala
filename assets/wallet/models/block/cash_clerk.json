@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "front": "wallet:block/cash_clerk_front",
+    "side": "wallet:block/cash_clerk_side",
+    "top": "wallet:block/cash_clerk_top",
+    "bottom": "wallet:block/cash_clerk_bottom"
+  }
+}

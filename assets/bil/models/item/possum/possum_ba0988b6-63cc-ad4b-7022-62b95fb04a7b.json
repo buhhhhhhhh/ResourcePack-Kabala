@@ -1,0 +1,1 @@
+{"textures":{"0":"bil:item/possum/texture","particle":"bil:item/possum/texture"},"elements":[{"from":[5.0,7.0,8.0],"to":[9.0,12.0,8.0],"faces":{"south":{"texture":"#0","tintindex":0,"uv":[4.0,5.0,5.5,6.75]},"north":{"texture":"#0","tintindex":0,"uv":[5.5,5.0,4.0,6.75]}},"rotation":{"x":0.0,"y":0.0,"z":0.0,"origin":[8.0,8.0,8.0]}}],"display":{"head":{"rotation":[0.0,180.0,0.0]}}}

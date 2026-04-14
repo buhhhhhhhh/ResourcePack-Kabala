@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump_tall",
+  "textures": {
+    "top": "polydecorations:block/enderscape/murublight_stem_stump_top",
+    "side": "enderscape:block/murublight_stem"
+  }
+}

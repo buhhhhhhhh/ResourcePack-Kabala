@@ -1,0 +1,1 @@
+{"parent":"polyfactory:block/nixie_tube_controller","textures":{"particle":"polyfactory:block/cable/block_observer_side","side":"polyfactory:block/cable/block_observer_side","back":"polyfactory:block/cable/block_observer_back","back_inner":"polyfactory:block/cable/block_observer_back_inner","front":"minecraft:block/observer_front"}}

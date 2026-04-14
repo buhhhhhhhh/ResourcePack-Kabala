@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_table_9",
+  "textures": {
+    "planks": "terrestria:block/yucca_palm_planks",
+    "logs": "terrestria:block/yucca_palm_log"
+  }
+}

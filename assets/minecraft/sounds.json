@@ -1,0 +1,202 @@
+{
+"music_disc.stronghold_minstrelosity": {
+	"sounds": [
+		{
+		"name": "records/stronghold_minstrelosity"
+		}
+	]
+},
+"music_disc.stronghold_draft_solo": {
+	"sounds": [
+		{
+		"name": "records/stronghold_draft_solo"
+		}
+	]
+},
+"music_disc.stronghold_castlejam": {
+	"sounds": [
+		{
+		"name": "records/stronghold_castlejam"
+		}
+	]
+},
+"music_disc.stronghold_horse_hair": {
+	"sounds": [
+		{
+		"name": "records/stronghold_horse_hair"
+		}
+	]
+},
+"music_disc.stronghold_labyrinth": {
+	"sounds": [
+		{
+		"name": "records/stronghold_labyrinth"
+		}
+	]
+},
+"music_disc.stronghold_life_of_a_good_farmer": {
+	"sounds": [
+		{
+		"name": "records/stronghold_life_of_a_good_farmer"
+		}
+	]
+},
+"music_disc.stronghold_matts_jig": {
+	"sounds": [
+		{
+		"name": "records/stronghold_matts_jig"
+		}
+	]
+},
+"music_disc.stronghold_pints_a_flowin": {
+	"sounds": [
+		{
+		"name": "records/stronghold_pints_a_flowin"
+		}
+	]
+},
+"music_disc.stronghold_sad_times": {
+	"sounds": [
+		{
+		"name": "records/stronghold_sad_times"
+		}
+	]
+},
+"music_disc.stronghold_the_maiden": {
+	"sounds": [
+		{
+		"name": "records/stronghold_the_maiden"
+		}
+	]
+},
+"music_disc.stronghold_the_piper": {
+	"sounds": [
+		{
+		"name": "records/stronghold_the_piper"
+		}
+	]
+},
+"music_disc.stronghold_two_mandolines": {
+	"sounds": [
+		{
+		"name": "records/stronghold_two_mandolines"
+		}
+	]
+},
+"music_disc.stronghold_under_an_old_tree": {
+	"sounds": [
+		{
+		"name": "records/stronghold_under_an_old_tree"
+		}
+	]
+},
+"music_disc.stronghold_virgin_territorry": {
+	"sounds": [
+		{
+		"name": "records/stronghold_virgin_territorry"
+		}
+	]
+},
+"music_disc.the_bear_got": {
+	"sounds": [
+		{
+		"name": "records/the_bear_got"
+		}
+	]
+},
+"music_disc.tom_of_badlam_stronghold": {
+	"sounds": [
+		{
+		"name": "records/tom_of_badlam_stronghold"
+		}
+	]
+},
+"music_disc.toss_a_coin_to_your_witcher": {
+	"sounds": [
+		{
+		"name": "records/toss_a_coin_to_your_witcher"
+		}
+	]
+},
+"music_disc.hands_of_gold_got": {
+	"sounds": [
+		{
+		"name": "records/hands_of_gold_got"
+		}
+	]
+},
+"music_disc.john_barleycorn_stronghold": {
+	"sounds": [
+		{
+		"name": "records/john_barleycorn_stronghold"
+		}
+	]
+},
+"music_disc.nucklelavee_the_bard": {
+	"sounds": [
+		{
+		"name": "records/nucklelavee_the_bard"
+		}
+	]
+},
+"music_disc.dornishmans_wife_got": {
+	"sounds": [
+		{
+		"name": "records/dornishmans_wife_got"
+		}
+	]
+},
+"music_disc.enchanter_dragonage": {
+	"sounds": [
+		{
+		"name": "records/enchanter_dragonage"
+		}
+	]
+},
+
+	"sword_and_faith_devil": {
+  "sounds": [
+     "music/game/sword_and_faith_devil"   
+  ]
+ },
+	"blood_and_banner_marrow": {
+  "sounds": [
+     "music/game/blood_and_banner_marrow"   
+  ]
+ },
+	"skellige_battle_grimgar": {
+  "sounds": [
+     "music/game/skellige_battle_grimgar"
+  ]
+ },
+	"godrick_the_crafted_shadow": {
+  "sounds": [
+     "music/game/godrick_the_crafted_shadow"
+  ]
+ },
+	"devouring_serpent_morbex": {
+  "sounds": [
+     "music/game/devouring_serpent_morbex"
+  ]
+ },
+	"moriaty_suite_witch": {
+  "sounds": [
+     "music/game/moriaty_suite_witch"
+  ]
+ },
+	"fallen_knights_spider": {
+  "sounds": [
+     "music/game/fallen_knights_spider"
+  ]
+ },
+	"inner_echo_trigger_1": {
+  "sounds": [
+     "inner_echo/trigger_text/trigger_1"
+  ]
+ }
+
+
+
+
+
+}

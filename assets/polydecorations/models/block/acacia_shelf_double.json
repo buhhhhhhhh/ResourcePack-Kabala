@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_shelf_double",
+  "textures": {
+    "planks": "minecraft:block/acacia_planks",
+    "logs": "minecraft:block/acacia_log"
+  }
+}

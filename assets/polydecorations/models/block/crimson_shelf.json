@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_shelf",
+  "textures": {
+    "planks": "minecraft:block/crimson_planks",
+    "logs": "minecraft:block/crimson_stem"
+  }
+}

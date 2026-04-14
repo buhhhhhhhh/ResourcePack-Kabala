@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/grass_block",
+  "textures": {
+    "bottom": "terrestria:block/andisol",
+    "particle": "terrestria:block/andisol",
+    "side": "terrestria:block/andisol_grass_block_side",
+    "top": "minecraft:block/grass_block_top"
+  }
+}

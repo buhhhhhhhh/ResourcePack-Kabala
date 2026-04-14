@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump_tall",
+  "textures": {
+    "top": "polydecorations:block/terrestria/japanese_maple_log_stump_top",
+    "side": "terrestria:block/japanese_maple_log"
+  }
+}

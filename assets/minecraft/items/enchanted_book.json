@@ -1,0 +1,168 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_elder_tome"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_ancient_scriptures"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_hoary_srcolls"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_cursed_writings"
+		}
+	},{
+		"threshold": 5,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_dusty_notices"
+		}
+	},{
+		"threshold": 6,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_manaflow"
+		}
+	},{
+		"threshold": 7,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_uncommon"
+		}
+	},{
+		"threshold": 8,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_rare"
+		}
+	},{
+		"threshold": 9,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_epic"
+		}
+	},{
+		"threshold": 10,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_legendary"
+		}
+	},{
+		"threshold": 11,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_arcane_grimoire"
+		}
+	},{
+		"threshold": 12,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_obscure_scrolls"
+		}
+	},{
+		"threshold": 13,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_veiled_chronicles"
+		}
+	},{
+		"threshold": 14,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_wicked_manuscripts"
+		}
+	},{
+		"threshold": 100,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_fletchers_rasp"
+		}
+	},{
+		"threshold": 101,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_smithing_tongs"
+		}
+	},{
+		"threshold": 102,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_whetstone"
+		}
+	},{
+		"threshold": 103,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_smithing_hammer"
+		}
+	},{
+		"threshold": 104,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_horse_heart"
+		}
+	},{
+		"threshold": 105,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/book_horse_heart_2"
+		}
+	},
+
+
+
+
+
+
+
+	{
+		"threshold": 201,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/skill_book_1"
+		}
+	},{
+		"threshold": 202,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/skill_book_2"
+		}
+	},{
+		"threshold": 203,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/skill_book_3"
+		}
+	},{
+		"threshold": 204,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/skill_book_4"
+		}
+	},{
+		"threshold": 205,
+		"model": {
+			"type": "model",
+			"model": "gd:item/books/skill_book_5"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/enchanted_book"
+	}
+}}

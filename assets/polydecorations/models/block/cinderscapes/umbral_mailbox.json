@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_cinderscapes/umbral",
+    "stripped_log": "cinderscapes:block/stripped_umbral_stem",
+    "stripped_log_top": "cinderscapes:block/stripped_umbral_stem_top",
+    "log": "cinderscapes:block/umbral_stem",
+    "log_top": "cinderscapes:block/umbral_stem_top"
+  }
+}

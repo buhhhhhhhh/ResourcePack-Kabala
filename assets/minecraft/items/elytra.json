@@ -1,0 +1,34 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/elytra_mistbreaker_wings"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/elytra_fiery_wings"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/elytra_wafer_thin_wings"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/elytra_camouflaging_wings"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/elytra"
+	}
+}}

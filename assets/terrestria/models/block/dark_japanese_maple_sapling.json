@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "terrestria:block/dark_japanese_maple_sapling"
+  }
+}

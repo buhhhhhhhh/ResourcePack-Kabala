@@ -1,0 +1,78 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/0.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/1.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/2.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/3.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/4.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/5.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/6.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/7.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/8.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gd:font/progress_bar_mana_boost_duration/9.png",
+            "ascent": 1,
+            "height": 26,
+            "chars": ["\u0039"]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_enderscape/veiled",
+    "stripped_log": "enderscape:block/stripped_veiled_log",
+    "stripped_log_top": "enderscape:block/stripped_veiled_log_top",
+    "log": "enderscape:block/veiled_log",
+    "log_top": "enderscape:block/veiled_log_top"
+  }
+}

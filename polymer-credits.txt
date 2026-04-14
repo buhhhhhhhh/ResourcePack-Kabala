@@ -1,0 +1,63 @@
+
+  +-----------+
+  |           |
+  |   #   #   |
+  |           |
+  |   #   #   |
+  |    ###    |
+  |           |
+  |           |
+  +-----------+
+
+Generated with Polymer 0.15.2
+
+Vanilla assets by Mojang Studios
+
+Contains assets from mods: 
+ - BabyFat (babyfat) / License: LGPL-3.0
+ - Blåhaj (blahaj) / License: Unlicense / Website: https://github.com/DaFuqs/Blahaj
+ - BLAST (blast) / License: All Rights Reserved
+ - Booklet (booklet) / License: LGPLv3 / Website: https://pb4.eu
+ - Brewery (brewery) / License: LGPLv3 / Website: https://pb4.eu
+ - ButterBee (butterbee) / License: CC-BY-NC-SA-4.0 / Website: https://modrinth.com/datapack/butterbee
+ - Polymer Patch for CC: Tweaked (cc-tweaked-polymer-patch) / License: LGPLv3 / Website: https://pb4.eu
+ - Chalk: Polymania Edition (chalk) / License: MIT
+ - CC: Tweaked (computercraft) / License: ComputerCraft Public License (https://raw.githubusercontent.com/dan200/ComputerCraft/master/LICENSE) / Website: https://tweaked.cc/
+ - Curiosities! (curiosities) / License: LGPLv3 / Website: https://pb4.eu
+ - DarkPaintings (darkpaintings) / License: LGPL v2.1 / Website: https://www.curseforge.com/minecraft/mc-mods/dark-paintings
+ - Enderscape (enderscape) / License: MIT / Website: https://modrinth.com/mod/enderscape
+ - Polymer Patch for Enderscape (enderscape-polymer-patch) / License: LGPLv3 / Website: https://pb4.eu
+ - Polymer Patch for Extended Drawers (extended-drawers-polymer-patch) / License: LGPLv3 / Website: https://pb4.eu
+ - Extended Drawers (extended_drawers) / License: Apache-2.0
+ - FactoryTools (factorytools) / License: LGPLv3 / Website: https://pb4.eu
+ - Polymer Patch for Farmers Delight (farmers-delight-polymer-patch) / License: LGPLv3 / Website: https://pb4.eu
+ - Farmer's Delight (farmersdelight) / License: MIT License / Website: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated
+ - Friends&Foes (friendsandfoes) / License: CC-BY-NC-ND-4.0 / Website: https://github.com/Faboslav/friends-and-foes
+ - Polymer Patch for Friends&Foes (friendsandfoes-polymer-patch) / License: MIT
+ - Glide Away! (glideaway) / License: LGPLv3 / Website: https://pb4.eu
+ - Gone Fishing (go-fish) / License: MIT
+ - Illager Expansion Recrafted (illagerexp) / License: MIT / Website: https://pb4.eu
+ - Lib99j (lib99j) / License: CC0-1.0 / Website: https://modrinth.com/mod/lib99j
+ - Polymer Patch for Lovely Snails (lovely-snails-polymer-patch) / License: LGPLv3 / Website: https://pb4.eu
+ - Lovely Snails (lovely_snails) / License: Lambda License / Website: https://modrinth.com/mod/lovely_snails
+ - mini-vfx (mini-vfx) / License: LGPL-3.0
+ - More Furnaces (Polymer) (morefurnaces) / License: MIT / Website: https://github.com/JongWasTaken/morefurnaces
+ - More Tools (Polymer) (moretools) / License: MIT / Website: https://github.com/JongWasTaken/moretools
+ - Banner Text (mr_banner_text) / License: MIT / Website: https://modrinth.com/datapack/banner-text
+ - Dungeons and Taverns (mr_dungeons_andtaverns) / License: LicenseRef-All-Rights-Reserved / Website: https://modrinth.com/datapack/dungeons-and-taverns
+ - Plushables (plushables) / License: GPLv3 / Website: https://khazoda.com#plushables
+ - PolyChess (polychess) / License: MIT / Website: https://discord.gg/czfFedprM4
+ - PolyDecorations (polydecorations) / License: LGPLv3 / Website: https://pb4.eu
+ - Polydex (polydex) / License: LGPLv3 / Website: https://pb4.eu
+ - PolyFactory (polyfactory) / License: LGPLv3 / Website: https://pb4.eu
+ - Polymer (Textured Blocks) (polymer-blocks) / License: LGPLv3 / Website: https://pb4.eu
+ - PolyNutrition (polynutrition) / License: LGPL-3.0
+ - This Rocks! (rocks) / License: MIT / Website: https://www.midnightdust.eu/
+ - Simply Slingshot (simply-slingshot) / License: LGPLv3 / Website: https://pb4.eu
+ - Tom's Mobs (toms_mobs) / License: MIT
+ - Trinkets (trinkets) / License: MIT / Website: https://modrinth.com/mod/trinkets-polymer
+ - Universal Graves (universal-graves) / License: LGPLv3 / Website: https://pb4.eu
+ - Vaulted End (vaulted-end) / License: Apache-2.0 / Website: https://github.com/thedeathlycow/
+ - Wallet (wallet) / License: MIT
+
+See licenses folder for more information!

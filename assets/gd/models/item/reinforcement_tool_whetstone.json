@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { "layer0": "gd:item/reinforcement_tools/reinforcement_tool_whetstone" }
+}

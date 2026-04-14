@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_bench_norest_right",
+  "textures": {
+    "planks": "terrestria:block/hemlock_planks",
+    "logs": "terrestria:block/hemlock_log"
+  }
+}

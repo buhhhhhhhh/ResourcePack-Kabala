@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump_tall",
+  "textures": {
+    "top": "polydecorations:block/stripped_woods_and_mires/pine_log_stump_top",
+    "side": "woods_and_mires:block/stripped_pine_log"
+  }
+}

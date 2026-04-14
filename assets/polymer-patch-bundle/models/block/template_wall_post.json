@@ -1,0 +1,1 @@
+{"elements":[{"from":[3.92,-0.08,3.92],"to":[12.08,16.08,12.08],"faces":{"down":{"texture":"#wall","cullface":"down"},"up":{"texture":"#wall","cullface":"up"},"north":{"texture":"#wall"},"south":{"texture":"#wall"},"west":{"texture":"#wall"},"east":{"texture":"#wall"}}}],"textures":{"particle":"#wall"}}

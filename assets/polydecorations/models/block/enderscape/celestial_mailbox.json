@@ -1,0 +1,10 @@
+{
+  "parent": "polydecorations:block/base_mailbox",
+  "textures": {
+    "front": "polydecorations:block/mailbox_front_enderscape/celestial",
+    "stripped_log": "enderscape:block/stripped_celestial_stem",
+    "stripped_log_top": "enderscape:block/stripped_celestial_stem_top",
+    "log": "enderscape:block/celestial_stem",
+    "log_top": "enderscape:block/celestial_stem_top"
+  }
+}

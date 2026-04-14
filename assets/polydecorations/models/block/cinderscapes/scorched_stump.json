@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_stump",
+  "textures": {
+    "top": "polydecorations:block/cinderscapes/scorched_stem_stump_top",
+    "side": "cinderscapes:block/scorched_stem"
+  }
+}

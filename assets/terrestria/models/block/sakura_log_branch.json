@@ -1,0 +1,8 @@
+{
+  "parent": "terraform:block/small_log_branch",
+  "textures": {
+    "end": "terrestria:block/sakura_log_top",
+    "particle": "terrestria:block/sakura_log",
+    "side": "terrestria:block/sakura_log"
+  }
+}

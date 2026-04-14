@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_shelf",
+  "textures": {
+    "planks": "minecraft:block/birch_planks",
+    "logs": "minecraft:block/birch_log"
+  }
+}

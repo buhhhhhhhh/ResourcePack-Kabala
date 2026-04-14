@@ -1,0 +1,7 @@
+{
+  "parent": "polydecorations:block/base_bench_right",
+  "textures": {
+    "planks": "terrestria:block/rainbow_eucalyptus_planks",
+    "logs": "terrestria:block/rainbow_eucalyptus_log"
+  }
+}

@@ -1,0 +1,83 @@
+{ "model": {
+	"type": "range_dispatch",
+	"property": "custom_model_data",
+	"index": 0,
+	"entries": [{
+		"threshold": 0,
+		"model": {
+			"type": "model",
+			"model": "minecraft:item/horse_spawn_egg"
+		}
+	},{
+		"threshold": 1,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_white"
+		}
+	},{
+		"threshold": 2,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_creamy"
+		}
+	},{
+		"threshold": 3,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_chestnut"
+		}
+	},{
+		"threshold": 4,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_brown"
+		}
+	},{
+		"threshold": 5,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_black"
+		}
+	},{
+		"threshold": 6,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_gray"
+		}
+	},{
+		"threshold": 7,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_dark_brown"
+		}
+	},{
+		"threshold": 10,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/horse_summon_scroll"
+		}
+	},{
+		"threshold": 11,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/mystical_horse_summon_scroll_fire"
+		}
+	},{
+		"threshold": 12,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/mystical_horse_summon_scroll_soul"
+		}
+	},{
+		"threshold": 13,
+		"model": {
+			"type": "model",
+			"model": "gd:item/spawn_eggs/mystical_horse_summon_scroll_ash"
+		}
+	}],
+	"fallback": {
+		"type": "model",
+		"model": "minecraft:item/horse_spawn_egg"
+	}
+    }
+}
